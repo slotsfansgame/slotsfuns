@@ -1,0 +1,289 @@
+# Translation of Plugins - Limit Login Attempts Reloaded - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - Limit Login Attempts Reloaded - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-23 21:15:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - Limit Login Attempts Reloaded - Stable (latest release)\n"
+
+#: views/options-page.php:179
+msgid "Specify the origins you trust in order of priority, separated by commas. We strongly recommend that you <b>do not</b> use anything other than REMOTE_ADDR since other origins can be easily faked. Examples: HTTP_X_FORWARDED_FOR, HTTP_CF_CONNECTING_IP, HTTP_X_SUCURI_CLIENTIP"
+msgstr ""
+"Вкажіть джерела, яким ви довіряєте, в порядку пріоритету, розділені комами. Ми настійно рекомендуємо вам <b>не використовувати</b> нічого крім REMOTE_ADDR \n"
+"оскільки інші джерела можуть бути легко підроблені. Приклади: HTTP_X_FORWARDED_FOR, HTTP_CF_CONNECTING_IP, HTTP_X_SUCURI_CLIENTIP"
+
+#: views/options-page.php:175
+msgid "Trusted IP Origins"
+msgstr "Надійні IP Origins"
+
+#: core/LimitLoginAttempts.php:1013
+msgid "You can also try <a href=\"%s\">resetting your password</a> and that should help you to log in."
+msgstr "Ви також можете спробувати <a href=\"%s\">скинути ваш пароль</a> і це може допомогти вам увійти в систему."
+
+#: views/options-page.php:139
+msgid "after"
+msgstr "після"
+
+#: views/options-page.php:136
+msgid "Email to"
+msgstr "Надіслати по email"
+
+#. Author URI of the plugin
+msgid "https://wpchef.org"
+msgstr "https://wpchef.org"
+
+#. Author of the plugin
+msgid "WPChef"
+msgstr "WPChef"
+
+#: core/LimitLoginAttempts.php:1349
+msgid "The \""
+msgstr " \""
+
+#: core/LimitLoginAttempts.php:1082
+msgid "<strong>ERROR</strong>: Incorrect email address or password."
+msgstr "<strong>ПОМИЛКА</strong> : неправильна адреса електронної пошти або пароль."
+
+#: views/options-page.php:103
+msgid "this makes the plugin <a href=\"https://gdpr-info.eu/\" target=\"_blank\" >GDPR</a> compliant"
+msgstr "це робить плагін <a href=\"https://gdpr-info.eu/\" target=\"_blank\" >GDPR</a> сумісним"
+
+#: views/options-page.php:100
+msgid "GDPR compliance"
+msgstr "Дотримання GDPR"
+
+#: views/options-page.php:185
+msgid "Save Options"
+msgstr "Зберегти параметри"
+
+#: views/options-page.php:150 views/options-page.php:164
+msgid "One IP or IP range (1.2.3.4-5.6.7.8) per line"
+msgstr "Один IP або IP діапазон (1.2.3.4-5.6.7.8) на рядок"
+
+#: core/LimitLoginAttempts.php:1393
+msgid "Options saved."
+msgstr "Параметри збережені."
+
+#: views/options-page.php:116
+msgid "minutes lockout"
+msgstr "хвилини блокування"
+
+#: views/options-page.php:112
+msgid "allowed retries"
+msgstr "дозволені спроби"
+
+#: views/options-page.php:212
+msgid "Gateway"
+msgstr "Шлюз"
+
+#: views/options-page.php:210
+msgctxt "Internet address"
+msgid "IP"
+msgstr "IP"
+
+#: views/options-page.php:209
+msgid "Date"
+msgstr "Дата"
+
+#: views/options-page.php:201
+msgid "Clear Log"
+msgstr "Очистити журнал"
+
+#: views/options-page.php:161
+msgid "Blacklist"
+msgstr "Чорний список"
+
+#: views/options-page.php:147
+msgid "Whitelist"
+msgstr "Білий список"
+
+#: views/options-page.php:131
+msgid "Notify on lockout"
+msgstr "Повідомити про блокування"
+
+#: core/LimitLoginAttempts.php:1299
+msgid "Reset lockout count"
+msgstr "Скинути кількість блокувань"
+
+#: views/options-page.php:107
+msgid "Lockout"
+msgstr "Блокування"
+
+#: views/options-page.php:50
+msgid "Reset Counter"
+msgstr "Скинути лічильник"
+
+#: views/options-page.php:41
+msgid "Statistics"
+msgstr "Статистика"
+
+#: core/LimitLoginAttempts.php:1010
+msgid "Please try again in %d minute."
+msgid_plural "Please try again in %d minutes."
+msgstr[0] "Будь ласка, спробуйте ще раз через %d хвилину."
+msgstr[1] "Будь ласка, спробуйте ще раз через %d хвилини."
+msgstr[2] "Будь ласка, спробуйте ще раз через %d хвилин."
+
+#: core/LimitLoginAttempts.php:1008
+msgid "Please try again in %d hour."
+msgid_plural "Please try again in %d hours."
+msgstr[0] "Будь ласка, спробуйте ще раз через %d годину."
+msgstr[1] "Будь ласка, спробуйте ще раз через %d години."
+msgstr[2] "Будь ласка, спробуйте ще раз через %d годин."
+
+#: views/options-page.php:66
+msgid "%d IP is currently blocked from trying to log in"
+msgstr "%d IP наразі заблоковано при спробі входу"
+
+#: core/LimitLoginAttempts.php:764
+msgid "%d failed login attempts (%d lockout(s)) from IP: %s"
+msgstr "%d спроби входу в систему (%d блокування (ів)) від IP: %s"
+
+#: views/options-page.php:79
+msgid "Use global settings"
+msgstr "Використовувати глобальні налаштування"
+
+#: views/options-page.php:77
+msgid "If disabled, the global settings will be forcibly applied to the entire network."
+msgstr "Якщо вимкнено, глобальні налаштування будуть примусово застосовані до всієї мережі."
+
+#: views/options-page.php:76
+msgid "Let network sites use their own settings"
+msgstr "Нехай сайти мережі використовують свої власні налаштування"
+
+#: views/options-page.php:154 views/options-page.php:168
+msgid "One Username per line"
+msgstr "Одне ім'я користувача на рядок"
+
+#: core/LimitLoginAttempts.php:1108
+msgid "WC Error"
+msgstr "Помилка WC"
+
+#. Description of the plugin
+msgid "Limit the rate of login attempts, including by way of cookies and for each IP address."
+msgstr "Обмежте швидкість спроб входу, у тому числі через файли cookie та для кожної IP-адреси."
+
+#. Plugin Name of the plugin
+msgid "Limit Login Attempts Reloaded"
+msgstr "Спроби обмеження входу в систему перезавантаження"
+
+#: views/options-page.php:211
+msgid "Tried to log in as"
+msgstr "Намагалися увійти як"
+
+#: views/options-page.php:134 views/options-page.php:196
+msgid "Lockout log"
+msgstr "Журнал блокування"
+
+#: views/options-page.php:126
+msgid "hours until retries are reset"
+msgstr "годин, поки повторні спроби не скинуті"
+
+#: views/options-page.php:123
+msgid "hours"
+msgstr "години"
+
+#: views/options-page.php:64
+msgid "Restore Lockouts"
+msgstr "Відновлення блокування"
+
+#: views/options-page.php:61
+msgid "Active lockouts"
+msgstr "Активні блокування"
+
+#: views/options-page.php:40
+msgid "Limit Login Attempts Settings"
+msgstr "Налаштування спроб обмеження входу"
+
+#: core/LimitLoginAttempts.php:1292
+msgid "Cleared IP log"
+msgstr "Очищений журнал IP"
+
+#: core/LimitLoginAttempts.php:1084
+msgid "<strong>ERROR</strong>: Incorrect username or password."
+msgstr "<strong>ПОМИЛКА</strong> : неправильне ім'я користувача або пароль."
+
+#: core/LimitLoginAttempts.php:992
+msgid "<strong>ERROR</strong>: Too many failed login attempts."
+msgstr "<strong>ПОМИЛКА</strong> : надто багато невдалих спроб входу."
+
+#: core/LimitLoginAttempts.php:772
+msgid "IP was NOT blocked because of external whitelist."
+msgstr "IP-адресу НЕ було заблоковано через зовнішній білий список."
+
+#: core/LimitLoginAttempts.php:768
+msgid "Last user attempted: %s"
+msgstr "Останній користувач спробував: %s"
+
+#: core/LimitLoginAttempts.php:759
+msgid "[%s] Too many failed login attempts"
+msgstr "[ %s] Забагато спроб входу в систему було забагато"
+
+#: core/LimitLoginAttempts.php:755
+msgid "[%s] Failed login attempts from whitelisted IP"
+msgstr "[ %s] Не вдалося виконати спроби входу з IP-адреси з білого списку"
+
+#: views/options-page.php:72
+msgid "Options"
+msgstr "Параметри"
+
+#: core/LimitLoginAttempts.php:1000
+msgid "Please try again later."
+msgstr "Будь ласка, повторіть спробу пізніше."
+
+#: views/options-page.php:142
+msgid "lockouts"
+msgstr "блокування"
+
+#: core/LimitLoginAttempts.php:748
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d хвилина"
+msgstr[1] "%d хвилини"
+msgstr[2] "%d хвилин"
+
+#: core/LimitLoginAttempts.php:742
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d година"
+msgstr[1] "%d години"
+msgstr[2] "%d годин"
+
+#: core/LimitLoginAttempts.php:774
+msgid "IP was blocked for %s"
+msgstr "IP був заблокований для %s"
+
+#: views/options-page.php:52
+msgid "%d lockout since last reset"
+msgid_plural "%d lockouts since last reset"
+msgstr[0] "%d блокування з моменту останнього скидання"
+msgstr[1] "%d блокування з моменту останнього скидання"
+msgstr[2] "%d блокувань з моменту останнього скидання"
+
+#: views/options-page.php:54
+msgid "No lockouts yet"
+msgstr "Блокувань поки немає"
+
+#: views/options-page.php:120
+msgid "lockouts increase lockout time to"
+msgstr "блокування збільшують час блокування до"
+
+#: core/LimitLoginAttempts.php:1306
+msgid "Cleared current lockouts"
+msgstr "Очистити поточні блокування"
+
+#: views/options-page.php:46
+msgid "Total lockouts"
+msgstr "Всього блокувань"
+
+#: core/LimitLoginAttempts.php:365 core/LimitLoginAttempts.php:1167
+msgid "<strong>%d</strong> attempt remaining."
+msgid_plural "<strong>%d</strong> attempts remaining."
+msgstr[0] "Залишилося <strong>%d</strong> спроба увійти."
+msgstr[1] "Залишилося <strong>%d</strong> спроби увійти."
+msgstr[2] "Залишилося <strong>%d</strong> спроб увійти."

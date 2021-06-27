@@ -1,0 +1,330 @@
+# Translation of Plugins - Limit Login Attempts Reloaded - Stable (latest release) in Norwegian (Bokmål)
+# This file is distributed under the same license as the Plugins - Limit Login Attempts Reloaded - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-06 12:12:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Plugins - Limit Login Attempts Reloaded - Stable (latest release)\n"
+
+#: views/tab-dashboard.php:77
+msgid "Deny Rules"
+msgstr "Nektelsesregler"
+
+#: views/tab-dashboard.php:63
+msgid "Allow Rules"
+msgstr "Tillatelsesregler"
+
+#: views/options-page.php:16
+msgid "Dashboard"
+msgstr "Kontrollpanel"
+
+#: views/tab-settings.php:144 views/tab-dashboard.php:91
+msgid "Save Settings"
+msgstr "Lagre endringer"
+
+#: views/tab-settings.php:82
+msgid "The workers absorb the main load caused by brute-force attacks, analyse login attempts and block unwanted visitors. They might provide other service functions as well."
+msgstr "Prosessene absorberer hovedlasten forårsaket av råmaktangrep, analysere innloggingsforsøk og blokkere uønskede besøkende. De kan også gjøre andre funksjoner."
+
+#: views/tab-settings.php:81
+msgid "Worker Settings"
+msgstr "Prosessinnsillinger"
+
+#: views/tab-settings.php:23
+msgid "These settings are independent of the workers (see below)."
+msgstr "Disse innstillingene er uavhengige av prosessene (se nedenfor)."
+
+#: views/tab-settings.php:22
+msgid "General Settings"
+msgstr "Generelle innstilinger"
+
+#: core/LimitLoginAttempts.php:1432 core/LimitLoginAttempts.php:1476
+msgid "Settings saved."
+msgstr "Innstillinger lagret."
+
+#. Description of the plugin
+msgid "Limit the rate of login attempts for each IP address."
+msgstr "Begrens antall innloggingsforsøk for hver IP-adresse."
+
+#: core/LimitLoginAttempts.php:1601
+msgid "Leave a review"
+msgstr "Legg inn en omtale"
+
+#: core/LimitLoginAttempts.php:1600
+msgid "Maybe later"
+msgstr "Kanskje senere"
+
+#: core/LimitLoginAttempts.php:1599
+msgid "Don't show again"
+msgstr "Ikke vis igjen"
+
+#: core/LimitLoginAttempts.php:1594
+msgid "Hey <strong>Limit Login Attempts Reloaded</strong> user!"
+msgstr "Hei, bruker av <strong>Limit Login Attempts Reloaded</strong>!"
+
+#: core/LimitLoginAttempts.php:1596
+msgid "We would really like to hear your feedback about the plugin! Please take a couple minutes to write a few words <a href=\"https://wordpress.org/support/plugin/limit-login-attempts-reloaded/reviews/#new-post\" target=\"_blank\">here</a>. Thank you!"
+msgstr "Vi vil gjerne høre din tilbakemelding om utvidelsen! Vennligst bruk et par minutter på å skrive noen få ord <a href=\"https://wordpress.org/support/plugin/limit-login-attempts-reloaded/reviews/#new-post\" target=\"_blank\">her</a>. Takk skal du ha!"
+
+#: views/tab-debug.php:36
+msgid "Copy the contents of the window and provide to support."
+msgstr "Kopier innholdet av vinduet og lever til brukerstøtte."
+
+#: views/options-page.php:18
+msgid "Debug"
+msgstr "Feilsøk"
+
+#: views/options-page.php:17
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: views/tab-debug.php:33
+msgid "Debug info"
+msgstr "Feilsøkingsinformasjon"
+
+#: views/tab-settings.php:113
+msgid "Trusted IP Origins"
+msgstr "Klarerte IP-opprinnelser"
+
+#: views/tab-settings.php:117
+msgid "Specify the origins you trust in order of priority, separated by commas. We strongly recommend that you <b>do not</b> use anything other than REMOTE_ADDR since other origins can be easily faked. Examples: HTTP_X_FORWARDED_FOR, HTTP_CF_CONNECTING_IP, HTTP_X_SUCURI_CLIENTIP"
+msgstr "Angi de opprinnelser du stoler på i prioritert rekkefølge, adskilt med komma. Vi vil sterkt anbefale at du <b>ikke</b> bruker noe annet enn REMOTE_ADDR fordi andre opprinnelser lett kan forfalskes. Eksempler: HTTP_X_FORWARDED_FOR, HTTP_CF_CONNECTING_IP, HTTP_X_SUCURI_CLIENTIP"
+
+#: core/LimitLoginAttempts.php:1083
+msgid "You can also try <a href=\"%s\">resetting your password</a> and that should help you to log in."
+msgstr "Du kan også forsøke å <a href=\"%s\">tilbakestille passordet ditt</a> og det bør hjelpe deg til å logge inn."
+
+#: views/tab-settings.php:73
+msgid "after"
+msgstr "etter"
+
+#: views/tab-settings.php:70
+msgid "Email to"
+msgstr "E-post til"
+
+#: core/LimitLoginAttempts.php:1160
+msgid "<strong>ERROR</strong>: Incorrect email address or password."
+msgstr "<strong>FEIL</strong>: Ugyldig e-postadresse eller passord."
+
+#. Author URI of the plugin
+msgid "https://wpchef.org"
+msgstr "https://wpchef.org"
+
+#. Author of the plugin
+msgid "WPChef"
+msgstr "WPChef"
+
+#: core/LimitLoginAttempts.php:1410
+msgid "The \""
+msgstr "Den \""
+
+#: views/tab-settings.php:57
+msgid "this makes the plugin <a href=\"https://gdpr-info.eu/\" target=\"_blank\" >GDPR</a> compliant"
+msgstr "dette gjør utvidelsen innrettet etter <a href=\"https://gdpr-info.eu/\" target=\"_blank\" >GDPR</a>"
+
+#: views/tab-settings.php:54
+msgid "GDPR compliance"
+msgstr "Innrettelse etter GDPR"
+
+#: views/tab-dashboard.php:66 views/tab-dashboard.php:80
+msgid "One IP or IP range (1.2.3.4-5.6.7.8) per line"
+msgstr "Én IP eller IP-område (1.2.3.4-5.6.7.8) pr. linje"
+
+#: views/tab-dashboard.php:107
+msgid "Clear Log"
+msgstr "Tøm logg"
+
+#: views/tab-settings.php:105
+msgid "hours"
+msgstr "timer"
+
+#: core/LimitLoginAttempts.php:1362
+msgid "Cleared IP log"
+msgstr "Tømte IP-logg"
+
+#: core/LimitLoginAttempts.php:1080
+msgid "Please try again in %d minute."
+msgid_plural "Please try again in %d minutes."
+msgstr[0] "Vennligst prøv igjen om %d minutt."
+msgstr[1] "Vennligst prøv igjen om %d minutter."
+
+#: core/LimitLoginAttempts.php:1078
+msgid "Please try again in %d hour."
+msgid_plural "Please try again in %d hours."
+msgstr[0] "Vennligst prøv igjen om %d time."
+msgstr[1] "Vennligst prøv igjen om %d timer."
+
+#: core/LimitLoginAttempts.php:1070
+msgid "Please try again later."
+msgstr "Vennligst prøv igjen senere."
+
+#: core/LimitLoginAttempts.php:810
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d minutt"
+msgstr[1] "%d minutter"
+
+#: core/LimitLoginAttempts.php:804
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d time"
+msgstr[1] "%d timer"
+
+#: views/tab-dashboard.php:35
+msgid "Reset Counter"
+msgstr "Tilbakestill teller"
+
+#: views/tab-dashboard.php:26
+msgid "Statistics"
+msgstr "Statistikk"
+
+#: views/tab-settings.php:32
+msgid "Use global settings"
+msgstr "Bruk globale innstillinger"
+
+#: views/tab-settings.php:30
+msgid "If disabled, the global settings will be forcibly applied to the entire network."
+msgstr "Hvis deaktivert, vil de globale innstillingene bli benyttet for hele nettverket. "
+
+#: views/tab-settings.php:29
+msgid "Let network sites use their own settings"
+msgstr "La nettsteder i nettverket benytte sine egne innstillinger"
+
+#: views/tab-dashboard.php:70 views/tab-dashboard.php:84
+msgid "One Username per line"
+msgstr "Ett brukernavn pr. linje"
+
+#: views/tab-dashboard.php:118
+msgid "Gateway"
+msgstr "Gateway"
+
+#: core/LimitLoginAttempts.php:1187
+msgid "WC Error"
+msgstr "WC-feil"
+
+#: views/tab-dashboard.php:117
+msgid "Tried to log in as"
+msgstr "Prøvde å logge inn som"
+
+#: views/tab-dashboard.php:116
+msgctxt "Internet address"
+msgid "IP"
+msgstr "IP"
+
+#: views/tab-dashboard.php:115
+msgid "Date"
+msgstr "Dato"
+
+#: views/tab-settings.php:108
+msgid "hours until retries are reset"
+msgstr "timer til forsøk er tilbakestilt"
+
+#: views/tab-settings.php:94
+msgid "allowed retries"
+msgstr "tillatte forsøk"
+
+#: views/tab-dashboard.php:51
+msgid "%d IP is currently blocked from trying to log in"
+msgstr "%d IP er for tiden blokkert fra å prøve å logge inn"
+
+#: core/LimitLoginAttempts.php:1062
+msgid "<strong>ERROR</strong>: Too many failed login attempts."
+msgstr "<strong>FEIL</strong>: For mange mislykkede innloggingsforsøk."
+
+#: core/LimitLoginAttempts.php:1162
+msgid "<strong>ERROR</strong>: Incorrect username or password."
+msgstr "<strong>FEIL</strong>: Galt brukernavn eller passord."
+
+#: core/LimitLoginAttempts.php:836
+msgid "IP was blocked for %s"
+msgstr "IP ble blokkert for %s"
+
+#: core/LimitLoginAttempts.php:834
+msgid "IP was NOT blocked because of external whitelist."
+msgstr "IP ble IKKE blokkert pga. ekstern hviteliste."
+
+#: core/LimitLoginAttempts.php:830
+msgid "Last user attempted: %s"
+msgstr "Siste bruker førsøkte: %s"
+
+#: core/LimitLoginAttempts.php:821
+msgid "[%s] Too many failed login attempts"
+msgstr "[%s] For mange mislykkede innloggingsforsøk"
+
+#. Plugin Name of the plugin
+#: views/options-page.php:13
+msgid "Limit Login Attempts Reloaded"
+msgstr "Begrens innloggingsforsøk gjenoppstått"
+
+#: core/LimitLoginAttempts.php:817
+msgid "[%s] Failed login attempts from whitelisted IP"
+msgstr "[%s] Mislykkede innloggingsforsøk fra hvitelistede IP"
+
+#: views/tab-dashboard.php:39
+msgid "No lockouts yet"
+msgstr "Ingen blokkeringer ennå"
+
+#: views/tab-dashboard.php:37
+msgid "%d lockout since last reset"
+msgid_plural "%d lockouts since last reset"
+msgstr[0] "%d blokkering siden siste tilbakestilling"
+msgstr[1] "%d blokkering siden siste tilbakestilling"
+
+#: views/tab-dashboard.php:49
+msgid "Restore Lockouts"
+msgstr "Tilbakestill blokkeringer"
+
+#: views/tab-dashboard.php:46
+msgid "Active lockouts"
+msgstr "Aktive blokkeringer"
+
+#: views/tab-settings.php:89
+msgid "Lockout"
+msgstr "Blokkering"
+
+#: core/LimitLoginAttempts.php:1376
+msgid "Cleared current lockouts"
+msgstr "Fjernet nåværende blokkeringer"
+
+#: core/LimitLoginAttempts.php:1369
+msgid "Reset lockout count"
+msgstr "Tilbakestill teller for blokkeringer"
+
+#: views/tab-dashboard.php:31
+msgid "Total lockouts"
+msgstr "Totalt antall blokkeringer"
+
+#: core/LimitLoginAttempts.php:826
+msgid "%d failed login attempts (%d lockout(s)) from IP: %s"
+msgstr "%d mislykkede innloggingsforsøk (%d blokkering(er)) fra IP: %s"
+
+#: core/LimitLoginAttempts.php:406 core/LimitLoginAttempts.php:1246
+msgid "<strong>%d</strong> attempt remaining."
+msgid_plural "<strong>%d</strong> attempts remaining."
+msgstr[0] "<strong>%d</strong> forsøk gjenstår."
+msgstr[1] "<strong>%d</strong> forsøk gjenstår."
+
+#: views/tab-dashboard.php:102
+msgid "Lockout log"
+msgstr "Blokkeringslogg"
+
+#: views/tab-settings.php:76
+msgid "lockouts"
+msgstr "blokkeringer"
+
+#: views/tab-settings.php:62
+msgid "Notify on lockout"
+msgstr "Varsel ved blokkering"
+
+#: views/tab-settings.php:102
+msgid "lockouts increase lockout time to"
+msgstr "blokkeringer øker blokkeringsstid til"
+
+#: views/tab-settings.php:98
+msgid "minutes lockout"
+msgstr "minutter blokkering"
