@@ -1,0 +1,743 @@
+# Translation of Plugins - Smush &#8211; Lazy Load Images, Optimize &amp; Compress Images - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Smush &#8211; Lazy Load Images, Optimize &amp; Compress Images - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-12 05:02:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Smush &#8211; Lazy Load Images, Optimize &amp; Compress Images - Stable (latest release)\n"
+
+#: app/views/tutorials/meta-box-header.php:24
+msgid "View All"
+msgstr "すべて表示"
+
+#: app/modals/updated.php:69
+msgid "Got it"
+msgstr "OK"
+
+#: core/class-core.php:401
+msgid "Dismiss notice"
+msgstr "通知を非表示"
+
+#: app/views/pro-features/meta-box.php:25
+msgid "Try Pro for Free"
+msgstr "プロを無料で試す"
+
+#: app/views/pro-features/meta-box.php:29
+msgid "Watch Video"
+msgstr "動画を視聴"
+
+#: core/modules/class-cdn.php:239
+msgid "REST API"
+msgstr "REST API"
+
+#: app/views/pro-features/meta-box.php:184
+msgid "Learn More"
+msgstr "さらに詳しく"
+
+#: app/pages/class-dashboard.php:999
+msgid "Image compression complete."
+msgstr "画像の圧縮完了"
+
+#: app/views/smush-upgrade-page.php:61
+msgid "Play"
+msgstr "再生"
+
+#: app/class-media-library.php:514
+msgid "Undo"
+msgstr "元に戻す"
+
+#: app/class-admin.php:427
+msgid "Manage Plugins"
+msgstr "プラグインの管理"
+
+#: app/class-admin.php:253
+msgid "Premium Support"
+msgstr "プレミアムサポート"
+
+#: app/class-admin.php:249
+msgid "View details"
+msgstr "詳細を表示"
+
+#: app/class-admin.php:222
+msgid "Go to Smush Dashboard"
+msgstr "Smush ダッシュボードへ移動"
+
+#: app/views/smush-upgrade-page.php:174
+msgid "Try it for free"
+msgstr "無料でお試し"
+
+#. translators: %s - count placeholder
+#: app/views/summary/meta-box.php:37
+msgid "You have %s images that need smushing"
+msgstr "圧縮が必要な画像が%s個あります"
+
+#: app/modals/restore-images.php:26
+msgid "Restoring images..."
+msgstr "画像を復元しています…"
+
+#: app/class-admin.php:269
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: core/class-core.php:309 core/class-core.php:310
+msgid "Bulk Restore"
+msgstr "一括復元"
+
+#: core/modules/class-cdn.php:224
+msgid "Background Images"
+msgstr "背景画像"
+
+#: core/modules/class-cdn.php:223
+msgid "Serve background images from the CDN"
+msgstr "CDN から背景画像を提供"
+
+#: app/views/lazyload/meta-box.php:284
+msgid "Background color"
+msgstr "背景色"
+
+#: app/views/lazyload/meta-box.php:236
+msgid "Image"
+msgstr "画像"
+
+#: app/views/lazyload/meta-box.php:243 app/views/lazyload/meta-box.php:256
+msgid "Placeholder image"
+msgstr "プレースホルダー画像"
+
+#: app/views/lazyload/meta-box.php:294
+msgid "Select"
+msgstr "選択"
+
+#: app/views/lazyload/meta-box.php:224 app/views/lazyload/meta-box.php:276
+msgid "Remove file"
+msgstr "ファイルを削除"
+
+#: app/views/lazyload/meta-box.php:219 app/views/lazyload/meta-box.php:271
+msgid "Upload file"
+msgstr "ファイルをアップロード"
+
+#: app/views/lazyload/meta-box.php:133
+msgid "Display"
+msgstr "表示"
+
+#: app/views/lazyload/meta-box.php:150
+msgid "Placeholder"
+msgstr "プレースホルダー"
+
+#: app/modals/restore-images.php:55
+msgid "Confirm"
+msgstr "確認"
+
+#: app/modals/restore-images.php:93
+msgid "Finish"
+msgstr "完了"
+
+#: app/modals/restore-images.php:156
+msgid "Retry"
+msgstr "再試行"
+
+#: core/integrations/class-composer.php:69
+msgid "WPBakery Page Builder"
+msgstr "WPBakery Page Builder"
+
+#: core/class-core.php:304 core/class-core.php:305
+msgid "API Status"
+msgstr "API ステータス"
+
+#: core/class-core.php:241
+msgid "Image Sizes"
+msgstr "画像サイズ"
+
+#: core/class-core.php:246
+msgid "Automatic compression"
+msgstr "自動圧縮"
+
+#: core/modules/class-cdn.php:334
+msgid "Needs upgrade"
+msgstr "アップグレードが必要"
+
+#: core/modules/class-cdn.php:337
+msgid "Activating"
+msgstr "有効化中"
+
+#: core/modules/class-cdn.php:342
+msgid "Active"
+msgstr "有効"
+
+#: app/views/settings/meta-box.php:228
+msgid "Update API status"
+msgstr "API ステータスを更新"
+
+#: app/common/progress-bar.php:81 app/modals/progress-dialog.php:70
+msgid "Resume"
+msgstr "再有効化"
+
+#: app/pages/class-dashboard.php:908 app/views/settings/meta-box.php:97
+msgid "Custom"
+msgstr "カスタム"
+
+#: app/pages/class-dashboard.php:904 app/views/settings/meta-box.php:93
+msgid "All"
+msgstr "すべて"
+
+#: app/pages/class-dashboard.php:67 app/pages/class-dashboard.php:341
+#: app/views/settings/meta-box.php:146
+msgid "Tools"
+msgstr "ツール"
+
+#: app/pages/class-dashboard.php:64 app/pages/class-dashboard.php:237
+#: app/pages/class-dashboard.php:249 app/pages/class-dashboard.php:1564
+#: app/views/settings/meta-box.php:136 app/modals/onboarding.php:44
+#: app/modals/onboarding.php:149
+msgid "Lazy Load"
+msgstr "Lazy Load"
+
+#: app/class-abstract-page.php:318
+msgid "Log In"
+msgstr "ログイン"
+
+#: core/class-core.php:300
+msgid "Data"
+msgstr "データ"
+
+#: app/modals/reset-settings.php:41
+msgid "Reset settings"
+msgstr "設定をリセット"
+
+#: core/class-core.php:299
+msgid "Uninstallation"
+msgstr "アンインストール"
+
+#: app/views/lazyload/meta-box.php:507
+msgid "Header"
+msgstr "ヘッダー"
+
+#: app/views/lazyload/meta-box.php:502
+msgid "Footer"
+msgstr "フッター"
+
+#: app/views/lazyload/meta-box.php:485
+msgid "Scripts"
+msgstr "スクリプト"
+
+#: app/views/lazyload/meta-box.php:457
+msgid "Classes & IDs"
+msgstr "クラスと ID"
+
+#: app/views/lazyload/meta-box.php:493
+msgid "Method"
+msgstr "方法"
+
+#: app/views/lazyload/meta-box.php:404
+msgid "Tags"
+msgstr "タグ"
+
+#: app/views/lazyload/meta-box.php:393
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: app/views/lazyload/meta-box.php:382
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: app/views/lazyload/meta-box.php:371
+msgid "Posts"
+msgstr "投稿"
+
+#: app/views/lazyload/meta-box.php:360
+msgid "Pages"
+msgstr "固定ページ"
+
+#: app/views/lazyload/meta-box.php:349
+msgid "Blog"
+msgstr "ブログ"
+
+#: app/views/lazyload/meta-box.php:338
+msgid "Frontpage"
+msgstr "フロントページ"
+
+#: app/views/lazyload/meta-box.php:331
+msgid "Name"
+msgstr "名前"
+
+#: app/views/lazyload/meta-box.php:324
+msgid "Post Types"
+msgstr "投稿タイプ"
+
+#: app/views/settings/meta-box.php:89 app/views/lazyload/meta-box.php:154
+msgid "None"
+msgstr "なし"
+
+#: app/views/lazyload/meta-box.php:142
+msgid "Fade In"
+msgstr "フェードイン"
+
+#: app/views/lazyload/meta-box.php:118
+msgid "Gravatars"
+msgstr "Gravatars"
+
+#: app/views/lazyload/meta-box.php:112
+msgid "Post Thumbnail"
+msgstr "投稿サムネイル"
+
+#: app/views/lazyload/meta-box.php:106
+msgid "Widgets"
+msgstr "ウィジェット"
+
+#: app/views/lazyload/meta-box.php:75
+msgid ".svg"
+msgstr ".svg"
+
+#: app/views/lazyload/meta-box.php:69
+msgid ".gif"
+msgstr ".gif"
+
+#: app/views/lazyload/meta-box.php:63
+msgid ".png"
+msgstr ".png"
+
+#: app/views/lazyload/meta-box.php:57
+msgid ".jpeg"
+msgstr ".jpeg"
+
+#: app/views/settings/meta-box.php:201 app/modals/webp-delete-all.php:56
+msgid "Delete"
+msgstr "削除"
+
+#: app/views/lazyload/meta-box.php:171
+msgid "Delay"
+msgstr "遅延"
+
+#: app/views/lazyload/meta-box.php:168 app/views/lazyload/meta-box.php:174
+msgid "ms"
+msgstr "ms"
+
+#: app/views/lazyload/meta-box.php:146 app/views/lazyload/meta-box.php:183
+msgid "Spinner"
+msgstr "スピナー"
+
+#: app/views/lazyload/meta-box.php:100
+msgid "Content"
+msgstr "コンテンツ"
+
+#: app/views/lazyload/meta-box.php:46
+msgid "Media Types"
+msgstr "メディアタイプ"
+
+#: app/views/lazyload/meta-box.php:159
+msgid "Animation"
+msgstr "アニメーション"
+
+#: app/views/lazyload/meta-box.php:165
+msgid "Duration"
+msgstr "期間"
+
+#: app/views/settings/meta-box.php:213 app/modals/reset-settings.php:27
+msgid "Reset Settings"
+msgstr "設定をリセット"
+
+#: app/views/lazyload/meta-box.php:332
+msgid "Type"
+msgstr "タイプ"
+
+#: app/views/lazyload/meta-box.php:433
+msgid "Post, Pages & URLs"
+msgstr "投稿、固定ページ、URL"
+
+#: core/class-cli.php:212
+msgid "Image compressed"
+msgstr "画像を圧縮しました"
+
+#: core/class-core.php:295
+msgid "Usage Tracking"
+msgstr "使用状況の追跡"
+
+#: core/class-cli.php:126
+msgid "Unsmushed images:"
+msgstr "圧縮を解除した画像:"
+
+#: app/modals/onboarding.php:113
+msgid "Next"
+msgstr "次"
+
+#: app/modals/onboarding.php:46 app/modals/onboarding.php:153
+msgid "Usage Data"
+msgstr "利用状況データ"
+
+#: app/class-ajax.php:1048 app/class-ajax.php:1133 app/class-ajax.php:1159
+#: app/class-ajax.php:1232
+msgid "User can not modify options"
+msgstr "ユーザーはオプションを変更できません"
+
+#: app/class-admin.php:218 app/views/smush-upgrade-page.php:198
+#: app/views/wp-smush-nextgen-bulk-page.php:35 app/views/smush-page.php:113
+#: app/views/smush-page.php:146
+msgid "Docs"
+msgstr "ドキュメント"
+
+#: app/views/smush-upgrade-page.php:186 app/views/smush-page.php:101
+msgid "Free Plugins"
+msgstr "無料プラグイン"
+
+#: app/views/wp-smush-nextgen-bulk-page.php:26 app/views/smush-page.php:137
+msgid "Plugins"
+msgstr "プラグイン"
+
+#: app/views/wp-smush-nextgen-bulk-page.php:45
+msgid "Privacy"
+msgstr "プライバシー"
+
+#: app/class-admin.php:244 app/views/smush-upgrade-page.php:195
+#: app/views/wp-smush-nextgen-bulk-page.php:32 app/views/smush-page.php:110
+#: app/views/smush-page.php:143
+msgid "Support"
+msgstr "サポート"
+
+#: app/views/wp-smush-nextgen-bulk-page.php:44
+msgid "Terms"
+msgstr "条件"
+
+#: app/views/smush-upgrade-page.php:189 app/views/smush-page.php:104
+msgid "Membership"
+msgstr "メンバーシップ"
+
+#: app/views/smush-upgrade-page.php:207 app/views/smush-page.php:122
+#: app/views/smush-page.php:158
+msgid "Privacy Policy"
+msgstr "プライバシーポリシー"
+
+#: app/views/settings/meta-box.php:24
+msgid "Translations"
+msgstr "翻訳"
+
+#: app/views/webp/config-meta-box.php:275
+#: app/views/webp/config-meta-box.php:291 app/views/webp/webp-meta-box.php:190
+#: app/views/webp/webp-meta-box.php:202 app/views/lazyload/meta-box.php:612
+#: app/views/lazyload/meta-box.php:627 app/views/cdn/meta-box.php:105
+#: app/views/cdn/meta-box.php:120
+msgid "Deactivate"
+msgstr "無効化"
+
+#: app/common/meta-box-footer.php:14
+msgid "Updating settings..."
+msgstr "設定を更新中…"
+
+#: app/common/meta-box-footer.php:15
+msgid "Update settings"
+msgstr "設定を更新"
+
+#: app/views/webp/upsell-meta-box.php:39 app/views/cdn/upsell-meta-box.php:32
+msgid "UPGRADE"
+msgstr "アップグレード"
+
+#: app/views/bulk/meta-box.php:60 app/views/nextgen/meta-box.php:67
+msgid "View all"
+msgstr "すべて表示"
+
+#: app/common/progress-bar.php:64 app/modals/reset-settings.php:37
+#: app/modals/webp-delete-all.php:49 app/modals/progress-dialog.php:89
+#: app/modals/restore-images.php:52 app/modals/restore-images.php:70
+#: app/modals/restore-images.php:149
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: app/views/nextgen/summary-meta-box.php:59
+msgid "Disabled"
+msgstr "無効"
+
+#: app/class-media-library.php:907
+msgid "Restore"
+msgstr "復元"
+
+#: app/class-abstract-page.php:652
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: app/class-media-library.php:392 app/pages/class-dashboard.php:630
+msgid "PRO"
+msgstr "PRO"
+
+#: app/modals/progress-dialog.php:32 app/modals/directory-list.php:30
+msgid "Close"
+msgstr "閉じる"
+
+#: app/views/smush-page.php:89
+msgid "Learn more"
+msgstr "さらに詳しく"
+
+#: app/views/lazyload/meta-box.php:200 app/views/lazyload/meta-box.php:253
+msgid "Remove"
+msgstr "削除"
+
+#: core/class-core.php:256
+msgid "Metadata"
+msgstr "メタデータ"
+
+#: app/pages/class-dashboard.php:457
+msgid "Max height"
+msgstr "最大の高さ"
+
+#: app/pages/class-dashboard.php:447
+msgid "Max width"
+msgstr "最大の幅"
+
+#: app/views/directory/meta-box.php:31
+msgid "CHOOSE DIRECTORY"
+msgstr "ディレクトリを選択"
+
+#: core/class-core.php:383
+msgid "Ajax Error"
+msgstr "Ajax エラー"
+
+#: core/modules/class-dir.php:303
+msgid "Image couldn't be optimized"
+msgstr "画像を最適化できませんでした"
+
+#: core/modules/class-dir.php:907
+msgid "We could not find any images in the selected directory."
+msgstr "選択したディレクトリに画像が見つかりませんでした。"
+
+#: core/class-core.php:378
+msgid "Missing file path."
+msgstr "ファイルパスがありません。"
+
+#: app/views/settings/meta-box.php:171
+msgid "Restore Images"
+msgstr "画像を復元"
+
+#: app/views/nextgen/meta-box-header.php:25
+msgid "Manage Galleries"
+msgstr "ギャラリーを管理"
+
+#: app/class-media-library.php:903
+msgid "Restore original image"
+msgstr "元の画像を復元"
+
+#: app/class-admin.php:329
+msgid "Validating.."
+msgstr "検証中…"
+
+#: app/modals/progress-dialog.php:104
+msgid "CANCEL"
+msgstr "キャンセル"
+
+#: app/views/bulk/meta-box-header.php:25
+msgid "Media Library"
+msgstr "メディアライブラリ"
+
+#: core/integrations/class-nextgen.php:640 core/modules/class-backup.php:338
+msgid "Unable to restore image"
+msgstr "画像を復元できません"
+
+#: app/class-abstract-page.php:724
+msgid "Your settings have been updated!"
+msgstr "設定が更新されました。"
+
+#: app/views/bulk/meta-box.php:36 app/views/nextgen/meta-box.php:33
+msgid "No attachments found - Upload some images"
+msgstr "添付ファイルが見つかりません - いくつかの画像をアップロード"
+
+#: app/views/bulk/meta-box.php:45 app/views/nextgen/meta-box.php:51
+msgid "UPLOAD IMAGES"
+msgstr "画像をアップロード"
+
+#. translators: %s: error message
+#: core/integrations/class-nextgen.php:683
+msgid "Unable to smush image, %s"
+msgstr "画像を圧縮できません。%s"
+
+#: core/integrations/nextgen/class-admin.php:214 core/class-core.php:372
+msgid "All images are fully optimized."
+msgstr "すべての画像は完全に最適化されています。"
+
+#: core/integrations/class-nextgen.php:132
+msgid "Enable NextGen Gallery integration"
+msgstr "NextGen Gallery の統合を有効にする"
+
+#: app/class-abstract-page.php:322
+msgid "Install Plugin"
+msgstr "プラグインをインストール"
+
+#: app/views/lazyload/disabled-meta-box.php:32
+msgid "Activate"
+msgstr "有効化"
+
+#: app/class-abstract-page.php:240 app/class-abstract-page.php:696
+#: app/class-admin.php:430 app/pages/class-dashboard.php:1077
+#: app/pages/class-dashboard.php:1078 app/views/bulk/meta-box.php:77
+#: app/views/bulk/meta-box.php:85 core/external/plugin-notice/notice.php:491
+#: core/class-core.php:400
+msgid "Dismiss"
+msgstr "非表示"
+
+#: app/class-admin.php:222 app/pages/class-dashboard.php:68
+#: app/pages/class-dashboard.php:179 app/pages/class-dashboard.php:357
+msgid "Settings"
+msgstr "設定"
+
+#: core/external/free-dashboard/module.php:477
+msgid "Rate %s"
+msgstr "「%s」を評価"
+
+#: app/class-media-library.php:315 app/class-media-library.php:738
+#: core/integrations/nextgen/class-stats.php:539
+msgid "Image size"
+msgstr "画像サイズ"
+
+#. translators: %s: directory name
+#: core/modules/class-smush.php:268
+msgid "%s is not writable"
+msgstr "%s は書き込みできません"
+
+#. translators: %s: file path
+#: core/modules/class-smush.php:264
+msgid "Could not find %s"
+msgstr "%s を見つけられませんでした"
+
+#: core/external/free-dashboard/module.php:386
+msgid "We're happy that you've chosen to install %s! Are you interested in how to make the most of this plugin? How would you like a quick 5 day email crash course with actionable advice on building your membership site? Only the info you want, no subscription!"
+msgstr "%s をインストールしていただきありがとうございます。プラグインを最大限に活用する方法に興味があるようでしたら、メールを通じた5日間の短期集中コースはいかがでしょうか。メンバーシップサイトを構築するアクション可能なアドバイスが含まれています。必要な情報のみお送りしますし、購入は何も必要ありません。"
+
+#: app/class-abstract-page.php:239 core/external/free-dashboard/module.php:416
+#: core/external/free-dashboard/module.php:481
+msgid "Saving"
+msgstr "保存中"
+
+#: core/external/free-dashboard/module.php:459
+msgid "Hey %s, you've been using %s for a while now, and we hope you're happy with it."
+msgstr "%s さん。%s をしばらくの間お使いのようです。気に入っていただけましたか ?"
+
+#: core/external/free-dashboard/module.php:459
+msgid "We've spent countless hours developing this free plugin for you, and we would really appreciate it if you dropped us a quick rating!"
+msgstr "皆さんのためにこの無料プラグインを開発するために数え切れないほどの時間を費やしてきました。少しの時間を使ってプラグインに評価をつけていただければ、本当にありがたいです。"
+
+#: app/class-admin.php:311 app/modals/webp-delete-all.php:63
+#: app/modals/restore-images.php:167 app/modals/checking-files.php:46
+msgid "WP Smush"
+msgstr "WP Smush"
+
+#: core/class-core.php:385
+msgid "All Done!"
+msgstr "すべて完了しました。"
+
+#: app/class-media-library.php:936
+#: core/integrations/nextgen/class-stats.php:353
+#: core/integrations/nextgen/class-admin.php:211 core/class-core.php:251
+#: core/class-core.php:369
+msgid "Super-Smush"
+msgstr "超圧縮"
+
+#: core/integrations/nextgen/class-admin.php:212 core/class-core.php:370
+msgid "Smush Now"
+msgstr "今すぐ圧縮"
+
+#: app/views/bulk/meta-box.php:200 app/views/bulk/meta-box.php:223
+msgid "Smush original images"
+msgstr "元の画像を圧縮"
+
+#: app/views/nextgen/summary-meta-box.php:52
+msgid "Super-Smushed images"
+msgstr "画像を超圧縮"
+
+#: app/class-ajax.php:310 core/integrations/class-nextgen.php:416
+msgid "You don't have permission to work with uploaded files."
+msgstr "添付ファイルを処理する権限がありません。"
+
+#: app/class-ajax.php:318 core/integrations/class-nextgen.php:424
+msgid "No attachment ID was provided."
+msgstr "添付ファイル ID がありません。"
+
+#: core/modules/class-smush.php:260
+msgid "File path is empty"
+msgstr "ファイルパスが空です"
+
+#: core/modules/class-smush.php:301
+msgid "Unknown API error"
+msgstr "不明な API エラー"
+
+#. translators: %s error message
+#: core/modules/class-smush.php:412
+msgid "Error posting to API: %s"
+msgstr "API への送信エラー: %s"
+
+#: core/modules/class-smush.php:437
+msgid "Smush data corrupted, try again."
+msgstr "圧縮データが壊れています。もう一度お試しください。"
+
+#: core/modules/class-smush.php:462
+msgid "Image couldn't be smushed"
+msgstr "画像を圧縮できませんでした"
+
+#: core/integrations/nextgen/class-stats.php:270
+#: core/integrations/nextgen/class-stats.php:273 core/class-core.php:382
+msgid "Already Optimized"
+msgstr "最適化済み"
+
+#: core/integrations/nextgen/class-stats.php:312
+msgid "Smush stats"
+msgstr "圧縮の統計"
+
+#: app/class-media-library.php:410 app/class-media-library.php:464
+#: app/class-media-library.php:697
+#: core/integrations/nextgen/class-admin.php:309 core/class-rest.php:80
+#: core/class-core.php:398
+msgid "Not processed"
+msgstr "処理できませんでした"
+
+#: app/class-media-library.php:359
+msgid "Smush Now!"
+msgstr "今すぐ圧縮 !"
+
+#: app/class-media-library.php:316 app/class-media-library.php:739
+#: core/integrations/nextgen/class-stats.php:540
+msgid "Savings"
+msgstr "節約"
+
+#: wp-smush.php:389
+msgid "Get Fast!"
+msgstr "高速化"
+
+#. Author of the plugin
+msgid "WPMU DEV"
+msgstr "WPMU DEV"
+
+#: app/class-media-library.php:355 app/class-media-library.php:456
+msgid "Smushing in progress..."
+msgstr "画像を圧縮中…"
+
+#. translators: %1$s: respnse code, %2$s error message
+#: core/modules/class-smush.php:421
+msgid "Error posting to API: %1$s %2$s"
+msgstr "API への送信エラー:  %1$s %2$s"
+
+#. translators: %1$s: image size, %2$s: image name
+#: core/modules/class-smush.php:283
+msgid "Skipped (%1$s), size limit exceeded"
+msgstr "スキップしました (%1$s)。サイズの上限を超えています。"
+
+#. translators: %1$s: image size, %2$s: image name
+#: core/modules/class-smush.php:279
+msgid "Skipped (%1$s), image not found"
+msgstr "スキップしました (%1$s)。画像が見つかりませんでした。"
+
+#: core/external/free-dashboard/module.php:417
+#: core/external/free-dashboard/module.php:482
+msgid "No thanks"
+msgstr "結構です"
+
+#: core/external/free-dashboard/module.php:413
+#: core/external/free-dashboard/module.php:474
+msgid "Thanks :)"
+msgstr "ありがとうございます :)"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/wp-smushit/"
+msgstr "http://ja.wordpress.org/plugins/wp-smushit/"
+
+#. Description of the plugin
+msgid "Reduce image file sizes, improve performance and boost your SEO using the free <a href=\"https://wpmudev.com/\">WPMU DEV</a> WordPress Smush API."
+msgstr "無料の <a href=\"https://premium.wpmudev.org/\">WPMU DEV</a> WordPress Smush API を使って、画像ファイルサイズを縮小しパフォーマンスを向上させ、SEO 効果を高めます。"

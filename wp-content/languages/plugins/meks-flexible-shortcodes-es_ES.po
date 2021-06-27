@@ -1,0 +1,387 @@
+# Translation of Plugins - Meks Flexible Shortcodes - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Meks Flexible Shortcodes - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-17 10:40:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Meks Flexible Shortcodes - Development (trunk)\n"
+
+#: templates/columns.php:55
+msgid "Check this option if your theme uses Bootstrap CSS framework to apply its styling on columns"
+msgstr "Selecciona esta opción si tu tema usa la biblioteca Bootstrap CSS para aplicar sus estilos a las columnas"
+
+#: templates/columns.php:50
+msgid "Enable Bootstrap columns"
+msgstr "Activar columnas de Bootstrap"
+
+#: templates/buttons.php:65
+msgid "Apply \"nofollow\" attribute"
+msgstr "Añadir atributo \"nofollow\""
+
+#. Author of the plugin
+msgid "Meks"
+msgstr "Meks"
+
+#: templates/separators.php:19
+msgid "Height"
+msgstr "Altura"
+
+#: templates/pullquotes.php:16
+msgid "Width"
+msgstr "Ancho"
+
+#: templates/progressbars.php:9
+msgid "WordPress"
+msgstr "WordPress"
+
+#: templates/progressbars.php:18
+msgid "Value"
+msgstr "Valor"
+
+#: templates/pullquotes.php:9
+msgid "Align"
+msgstr "Alineación"
+
+#: templates/pullquotes.php:11
+msgid "Left"
+msgstr "Izquierda"
+
+#: templates/pullquotes.php:12
+msgid "Right"
+msgstr "Derecha"
+
+#: templates/social.php:11 templates/dropcaps.php:13
+msgid "Square"
+msgstr "Cuadrado"
+
+#. Description of the plugin
+msgid "Add some cool elements to your post/page content. Smart styling options will make it fit into any theme design. Columns, buttons, higlights, social icons, tabs, toggles, accordions, pull quotes, progress bars, separators, dropcaps..."
+msgstr "Añade algunos elementos interesantes al contenido de tu entrada/página. Las opciones de estilo inteligente harán que encaje en el diseño de cualquier tema. Columnas, botones, resaltados, iconos sociales, pestañas, desplegables, acordeones, citas, barras de progreso, separadores, letras capitales..."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://mekshq.com"
+msgstr "http://mekshq.com"
+
+#. Plugin Name of the plugin
+msgid "Meks Flexible Shortcodes"
+msgstr "Meks Flexible Shortcodes"
+
+#: templates/toggles.php:19
+msgid "Close"
+msgstr "Cerrado"
+
+#: templates/toggles.php:18
+msgid "Open"
+msgstr "Abierto"
+
+#: templates/toggles.php:15
+msgid "Default state"
+msgstr "Estado por defecto"
+
+#: templates/tabs.php:25
+msgid "Insert Tabs"
+msgstr "Insertar pestañas"
+
+#: templates/toggles.php:23
+msgid "Insert Toggle"
+msgstr "Insertar desplegable"
+
+#: templates/tabs.php:20
+msgid "Vertical"
+msgstr "Vertical"
+
+#: templates/tabs.php:19
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: templates/tabs.php:16
+msgid "Navigation type"
+msgstr "Tipo de navegación"
+
+#: templates/social.php:41
+msgid "Insert Social Icon"
+msgstr "Insertar icono de red social"
+
+#: templates/separators.php:23
+msgid "Insert Separator"
+msgstr "Insertar separador"
+
+#: templates/separators.php:15
+msgid "Blank (empty space)"
+msgstr "En blanco (espacio vacío)"
+
+#: templates/separators.php:14
+msgid "Dashed"
+msgstr "Línea discontinua"
+
+#: templates/separators.php:13
+msgid "Dotted"
+msgstr "Punteada"
+
+#: templates/separators.php:12
+msgid "Double"
+msgstr "Doble"
+
+#: templates/separators.php:11
+msgid "Solid"
+msgstr "Sólida"
+
+#: templates/pullquotes.php:32
+msgid "Insert Boxed Quote"
+msgstr "Insertar cita en un recuadro"
+
+#: templates/progressbars.php:52
+msgid "Insert Progress Bar"
+msgstr "Insertar barra de progreso"
+
+#: templates/social.php:13 templates/progressbars.php:42
+msgid "Rounded corners"
+msgstr "Esquinas redondeadas"
+
+#: templates/social.php:9 templates/progressbars.php:38
+msgid "Shape"
+msgstr "Forma"
+
+#: templates/progressbars.php:32
+msgid "Height (thickness)"
+msgstr "Altura (grosor)"
+
+#: templates/progressbars.php:15
+msgid "Pro"
+msgstr "Pro"
+
+#: templates/progressbars.php:13
+msgid "Level label"
+msgstr "Etiqueta del nivel"
+
+#: templates/progressbars.php:8
+msgid "Name label"
+msgstr "Nombre de la etiqueta"
+
+#: templates/icons.php:23
+msgid "Insert Icon"
+msgstr "Insertar icono"
+
+#: templates/icons.php:10 templates/progressbars.php:47
+msgid "Color"
+msgstr "Color"
+
+#: templates/highlights.php:12
+msgid "Insert Highlight"
+msgstr "Insertar resaltado"
+
+#: templates/dropcaps.php:31
+msgid "Insert Dropcap"
+msgstr "Insertar letra capital"
+
+#: templates/pullquotes.php:20 templates/dropcaps.php:19
+msgid "Font size"
+msgstr "Tamaño de fuente"
+
+#: templates/dropcaps.php:15
+msgid "Rounded Corners"
+msgstr "Esquinas redondeadas"
+
+#: templates/social.php:12 templates/dropcaps.php:14
+msgid "Circle"
+msgstr "Círculo"
+
+#: templates/dropcaps.php:12
+msgid "Letter only (no background)"
+msgstr "Solo letra (sin fondo)"
+
+#: templates/columns.php:59
+msgid "Insert Columns"
+msgstr "Insertar columnas"
+
+#: templates/columns.php:40 templates/columns.php:45
+msgid "One quarter + one half + one quarter"
+msgstr "Un cuarto + la mitad + un cuarto"
+
+#: templates/columns.php:36
+msgid "Two quarters + one half"
+msgstr "Dos cuartos + la mitad"
+
+#: templates/columns.php:31
+msgid "One half + two quarters"
+msgstr "La mitad + dos cuartos"
+
+#: templates/buttons.php:14
+msgid "Large"
+msgstr "Grande"
+
+#: templates/buttons.php:10 templates/social.php:18
+msgid "Size"
+msgstr "Tamaño"
+
+#: templates/tabs.php:6 templates/separators.php:5 templates/toggles.php:6
+#: templates/icons.php:6 templates/accordion.php:6 templates/social.php:5
+#: templates/progressbars.php:5 templates/highlights.php:5
+#: templates/dropcaps.php:5
+msgid "Options"
+msgstr "Opciones"
+
+#: templates/buttons.php:47 templates/toggles.php:10
+msgid "Title"
+msgstr "Título"
+
+#: templates/buttons.php:51 templates/social.php:23
+msgid "URL"
+msgstr "URL"
+
+#: templates/buttons.php:48
+msgid "Button"
+msgstr "Botón"
+
+#: templates/buttons.php:24
+msgid "Rounded"
+msgstr "Redondeado"
+
+#: templates/columns.php:27
+msgid "One third + two thirds"
+msgstr "Un tercio + dos tercios"
+
+#: templates/columns.php:23
+msgid "Two thirds + one third"
+msgstr "Dos tercios + un tercio"
+
+#: templates/columns.php:20
+msgid "Complex"
+msgstr "Complejo"
+
+#: templates/columns.php:16
+msgid "Four columns"
+msgstr "Cuatro columnas"
+
+#: templates/columns.php:12
+msgid "Three columns"
+msgstr "Tres columnas"
+
+#: templates/columns.php:8
+msgid "Two columns"
+msgstr "Dos columnas"
+
+#: templates/columns.php:5
+msgid "Standard"
+msgstr "Estándar"
+
+#: templates/buttons.php:72
+msgid "Insert Button"
+msgstr "Insertar botón"
+
+#: templates/buttons.php:60 templates/social.php:32
+msgid "Open in new window/tab"
+msgstr "Abrir en una nueva ventana/pestaña"
+
+#: templates/buttons.php:59 templates/social.php:31
+msgid "Open in same window"
+msgstr "Abrir en la misma ventana"
+
+#: templates/buttons.php:56 templates/social.php:28
+msgid "Link Target"
+msgstr "Destino del enlace"
+
+#: templates/buttons.php:44
+msgid "Link Options"
+msgstr "Opciones del enlace"
+
+#: templates/buttons.php:37 templates/icons.php:15 templates/social.php:37
+msgid "Icon"
+msgstr "Icono"
+
+#: templates/buttons.php:32 templates/pullquotes.php:28
+#: templates/dropcaps.php:27
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: templates/buttons.php:28 templates/pullquotes.php:24
+#: templates/highlights.php:8 templates/dropcaps.php:23
+msgid "Background Color"
+msgstr "Color del fondo"
+
+#: templates/buttons.php:23 templates/progressbars.php:41
+msgid "Squared"
+msgstr "Cuadrado"
+
+#: templates/separators.php:9 templates/buttons.php:20
+#: templates/progressbars.php:28 templates/dropcaps.php:9
+msgid "Style"
+msgstr "Estilo"
+
+#: templates/buttons.php:13
+msgid "Medium"
+msgstr "Mediano"
+
+#: templates/buttons.php:12
+msgid "Small"
+msgstr "Pequeño"
+
+#: templates/buttons.php:6 templates/pullquotes.php:5
+msgid "Style Options"
+msgstr "Opciones de estilo"
+
+#: templates/accordion.php:15
+msgid "Insert Accordion"
+msgstr "Insertar acordeón"
+
+#: templates/tabs.php:10 templates/accordion.php:10
+msgid "Number of items"
+msgstr "Número de elementos"
+
+#: meks-shortcodes.php:136
+msgid "Progress Bars"
+msgstr "Barras de progreso"
+
+#: meks-shortcodes.php:135
+msgid "Icons"
+msgstr "Iconos"
+
+#: meks-shortcodes.php:134
+msgid "Accordions"
+msgstr "Acordeones"
+
+#: meks-shortcodes.php:133
+msgid "Toggles"
+msgstr "Desplegables"
+
+#: meks-shortcodes.php:132
+msgid "Tabs"
+msgstr "Pestañas"
+
+#: meks-shortcodes.php:131
+msgid "Social Icons"
+msgstr "Iconos de red social"
+
+#: meks-shortcodes.php:130
+msgid "Pull Quotes"
+msgstr "Citas integradas"
+
+#: meks-shortcodes.php:129
+msgid "Buttons"
+msgstr "Botones"
+
+#: meks-shortcodes.php:128
+msgid "Dropcaps"
+msgstr "Letras capitales"
+
+#: meks-shortcodes.php:127
+msgid "Highlights"
+msgstr "Resaltados"
+
+#: meks-shortcodes.php:126
+msgid "Separators"
+msgstr "Separadores"
+
+#: meks-shortcodes.php:125
+msgid "Columns"
+msgstr "Columnas"
+
+#: inc/functions.php:837
+msgid "Choose icon"
+msgstr "Elige un icono"

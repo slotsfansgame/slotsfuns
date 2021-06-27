@@ -1,0 +1,119 @@
+# Translation of Plugins - WP Downgrade | Specific Core Version - Development (trunk) in Dutch
+# This file is distributed under the same license as the Plugins - WP Downgrade | Specific Core Version - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-20 20:29:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - WP Downgrade | Specific Core Version - Development (trunk)\n"
+
+#: wp-downgrade.php:149
+msgid "The update could fail. Are you sure that the version number is correct? You can also manually edit the download URL if needed."
+msgstr "De update kan mislukken. Weet je zeker dat het versienummer correct is? Je kan de download-url indien nodig ook handmatig bewerken."
+
+#: wp-downgrade.php:136
+msgid "<strong>All fine!</strong> You are currently on your desired release. And it will stay like that. <br>If you ever want to <strong>reinstall</strong> "
+msgstr "<strong>Alles goed!</strong> Je bevindt je momenteel op de door jou gewenste release. En zo zal het blijven. <br>Als je ooit opnieuw <strong>installeren</strong> wil"
+
+#: wp-downgrade.php:121
+msgid "Usually you <strong>do not</strong> need to change this. But you can, if necessary. Must be a valid URL to a WordPress ZIP. <strong>Be careful!</strong> The content will not be verified! Wordpress will use what ever you give here, even if it does not contain release "
+msgstr ""
+"Gewoonlijk hoef je dit <strong>niet</strong> te wijzigen. Maar je kan, indien nodig. Moet een geldige url zijn naar een WordPress zip. <strong>wees voorzichtig!</strong> De inhoud wordt niet geverifieerd! \n"
+"WordPress zal alles gebruiken wat je hier aangeeft, zelfs als het geen release bevat"
+
+#: wp-downgrade.php:119
+msgid "edit download URL"
+msgstr "bewerk de download-URL"
+
+#: wp-downgrade.php:97
+msgid "for example \"4.9.8\". Leave empty to disable."
+msgstr "bijvoorbeeld \"4.9.8\". Laat leeg om uit te schakelen."
+
+#: wp-downgrade.php:147
+msgid "Attention! The target version does not seem to exist!"
+msgstr "Aandacht! De doelversie lijkt niet te bestaan!"
+
+#: wp-downgrade.php:141
+msgid "Up-/Downgrade Core"
+msgstr "Core upgraden/downgraden"
+
+#. Author of the plugin
+msgid "Reisetiger"
+msgstr "Reisetiger"
+
+#. Description of the plugin
+msgid "WP Downgrade allows you to either downgrade or update WordPress Core to an arbitrary version of your choice. The version you choose is downloaded directly from wordpress.org and installed just like any regular release update. The target version WordPress allows you to update to remains constant until you enter a different one or deactivate the plugin either completely or by leaving the target version field empty."
+msgstr "Met WP Downgrade kan je WordPress core downgraden of updaten naar een willekeurige versie van je keuze. De versie die je kiest, wordt rechtstreeks gedownload van wordpress.org en geïnstalleerd zoals elke reguliere release-update. Met de doel versie van WordPress kan je updaten naar constante totdat je een andere invoert of de plugin volledig deactiveert of door het veld voor de doel versie leeg te laten."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.reisetiger.net"
+msgstr "https://www.reisetiger.net"
+
+#. Plugin Name of the plugin
+msgid "WP Downgrade | Specific Core Version"
+msgstr "WP Downgrade | Specific Core Version"
+
+#: wp-downgrade.php:136 wp-downgrade.php:140
+msgid "Update Core"
+msgstr "Update core"
+
+#: wp-downgrade.php:140
+msgid "please go to"
+msgstr "ga naar"
+
+#: wp-downgrade.php:140
+msgid "In order to perform the upgrade/downgrade to WP"
+msgstr "Om de upgrade/downgrade naar WP"
+
+#: wp-downgrade.php:107
+msgid "Language Detected"
+msgstr "Taal gedetecteerd"
+
+#: wp-downgrade.php:101
+msgid "Current WP Version"
+msgstr "Huidige WP-versie"
+
+#: wp-downgrade.php:97
+msgid "WP Releases"
+msgstr "WP-releases"
+
+#: wp-downgrade.php:97
+msgid "Exact version number from"
+msgstr "Exact versienummer van"
+
+#: wp-downgrade.php:95
+msgid "WordPress Target Version"
+msgstr "WordPress target versie"
+
+#: wp-downgrade.php:59
+msgid "Which WordPress version would you like to up-/downgrade to?"
+msgstr "Naar welke wordpress-versie wil je upgraden/downgraden?"
+
+#: wp-downgrade.php:57
+msgid "WARNING! You are using this plugin entirely at your own risk! DO MAKE SURE you have a current backup of both your files and database, since a manual version change is deeply affecting your WP installation!"
+msgstr "Waarschuwing! Je gebruikt deze plugin geheel op eigen risico! Zorg ervoor dat je een actuele back-up hebt van zowel je bestanden als je database, aangezien een handmatige versiewijziging een grote invloed heeft op je WP installatie!"
+
+#: wp-downgrade.php:55
+msgid "Inactive"
+msgstr "Inactief"
+
+#: wp-downgrade.php:55
+msgid "is set as target version"
+msgstr "is ingesteld als doelversie"
+
+#: wp-downgrade.php:55
+msgid "WP"
+msgstr "WP"
+
+#: wp-downgrade.php:55
+msgid "Active"
+msgstr "Actief"
+
+#: wp-downgrade.php:55
+msgid "WP Downgrade"
+msgstr "WP downgraden"

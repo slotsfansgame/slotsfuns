@@ -1,0 +1,150 @@
+2021-03-25T15:59:23+00:00 CRITICAL Uncaught Error: Call to undefined function register_block_type_from_metadata() in /home/site/wwwroot/wp-includes/blocks/archives.php:112
+Stack trace:
+#0 /home/site/wwwroot/wp-includes/class-wp-hook.php(287): register_block_core_archives('')
+#1 /home/site/wwwroot/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/site/wwwroot/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/site/wwwroot/wp-settings.php(540): do_action('init')
+#4 /home/site/wwwroot/wp-config.php(89): require_once('/home/site/wwwr...')
+#5 /home/site/wwwroot/wp-load.php(37): require_once('/home/site/wwwr...')
+#6 /home/site/wwwroot/wp-blog-header.php(13): require_once('/home/site/wwwr...')
+#7 /home/site/wwwroot/index.php(17): require('/home/site/wwwr...')
+#8 {main}
+  thrown в /home/site/wwwroot/wp-includes/blocks/archives.php на строке 112
+
+2021-03-25T15:59:25+00:00 CRITICAL Uncaught Error: Call to undefined function register_block_type_from_metadata() in /home/site/wwwroot/wp-includes/blocks/archives.php:112
+Stack trace:
+#0 /home/site/wwwroot/wp-includes/class-wp-hook.php(287): register_block_core_archives('')
+#1 /home/site/wwwroot/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/site/wwwroot/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/site/wwwroot/wp-settings.php(540): do_action('init')
+#4 /home/site/wwwroot/wp-config.php(89): require_once('/home/site/wwwr...')
+#5 /home/site/wwwroot/wp-load.php(37): require_once('/home/site/wwwr...')
+#6 /home/site/wwwroot/wp-cron.php(44): require_once('/home/site/wwwr...')
+#7 {main}
+  thrown в /home/site/wwwroot/wp-includes/blocks/archives.php на строке 112
+
+2021-03-25T15:59:26+00:00 CRITICAL Uncaught Error: Call to undefined function register_block_type_from_metadata() in /home/site/wwwroot/wp-includes/blocks/archives.php:112
+Stack trace:
+#0 /home/site/wwwroot/wp-includes/class-wp-hook.php(287): register_block_core_archives('')
+#1 /home/site/wwwroot/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/site/wwwroot/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/site/wwwroot/wp-settings.php(540): do_action('init')
+#4 /home/site/wwwroot/wp-config.php(89): require_once('/home/site/wwwr...')
+#5 /home/site/wwwroot/wp-load.php(37): require_once('/home/site/wwwr...')
+#6 /home/site/wwwroot/wp-blog-header.php(13): require_once('/home/site/wwwr...')
+#7 /home/site/wwwroot/index.php(17): require('/home/site/wwwr...')
+#8 {main}
+  thrown в /home/site/wwwroot/wp-includes/blocks/archives.php на строке 112
+
+2021-03-25T15:59:28+00:00 CRITICAL Uncaught Error: Call to undefined function register_block_type_from_metadata() in /home/site/wwwroot/wp-includes/blocks/archives.php:112
+Stack trace:
+#0 /home/site/wwwroot/wp-includes/class-wp-hook.php(287): register_block_core_archives('')
+#1 /home/site/wwwroot/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/site/wwwroot/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/site/wwwroot/wp-settings.php(540): do_action('init')
+#4 /home/site/wwwroot/wp-config.php(89): require_once('/home/site/wwwr...')
+#5 /home/site/wwwroot/wp-load.php(37): require_once('/home/site/wwwr...')
+#6 /home/site/wwwroot/wp-blog-header.php(13): require_once('/home/site/wwwr...')
+#7 /home/site/wwwroot/index.php(17): require('/home/site/wwwr...')
+#8 {main}
+  thrown в /home/site/wwwroot/wp-includes/blocks/archives.php на строке 112
+
+2021-03-25T15:59:30+00:00 CRITICAL Uncaught Error: Call to undefined function register_block_type_from_metadata() in /home/site/wwwroot/wp-includes/blocks/archives.php:112
+Stack trace:
+#0 /home/site/wwwroot/wp-includes/class-wp-hook.php(287): register_block_core_archives('')
+#1 /home/site/wwwroot/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/site/wwwroot/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/site/wwwroot/wp-settings.php(540): do_action('init')
+#4 /home/site/wwwroot/wp-config.php(89): require_once('/home/site/wwwr...')
+#5 /home/site/wwwroot/wp-load.php(37): require_once('/home/site/wwwr...')
+#6 /home/site/wwwroot/wp-blog-header.php(13): require_once('/home/site/wwwr...')
+#7 /home/site/wwwroot/index.php(17): require('/home/site/wwwr...')
+#8 {main}
+  thrown в /home/site/wwwroot/wp-includes/blocks/archives.php на строке 112
+
+2021-03-25T15:59:33+00:00 CRITICAL Uncaught Error: Call to undefined function register_block_type_from_metadata() in /home/site/wwwroot/wp-includes/blocks/archives.php:112
+Stack trace:
+#0 /home/site/wwwroot/wp-includes/class-wp-hook.php(287): register_block_core_archives('')
+#1 /home/site/wwwroot/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/site/wwwroot/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/site/wwwroot/wp-settings.php(540): do_action('init')
+#4 /home/site/wwwroot/wp-config.php(89): require_once('/home/site/wwwr...')
+#5 /home/site/wwwroot/wp-load.php(37): require_once('/home/site/wwwr...')
+#6 /home/site/wwwroot/wp-blog-header.php(13): require_once('/home/site/wwwr...')
+#7 /home/site/wwwroot/index.php(17): require('/home/site/wwwr...')
+#8 {main}
+  thrown в /home/site/wwwroot/wp-includes/blocks/archives.php на строке 112
+
+2021-03-25T15:59:35+00:00 CRITICAL Uncaught Error: Call to undefined function register_block_type_from_metadata() in /home/site/wwwroot/wp-includes/blocks/archives.php:112
+Stack trace:
+#0 /home/site/wwwroot/wp-includes/class-wp-hook.php(287): register_block_core_archives('')
+#1 /home/site/wwwroot/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/site/wwwroot/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/site/wwwroot/wp-settings.php(540): do_action('init')
+#4 /home/site/wwwroot/wp-config.php(89): require_once('/home/site/wwwr...')
+#5 /home/site/wwwroot/wp-load.php(37): require_once('/home/site/wwwr...')
+#6 /home/site/wwwroot/wp-blog-header.php(13): require_once('/home/site/wwwr...')
+#7 /home/site/wwwroot/index.php(17): require('/home/site/wwwr...')
+#8 {main}
+  thrown в /home/site/wwwroot/wp-includes/blocks/archives.php на строке 112
+
+2021-03-25T15:59:35+00:00 CRITICAL Uncaught Error: Call to undefined function register_block_type_from_metadata() in /home/site/wwwroot/wp-includes/blocks/archives.php:112
+Stack trace:
+#0 /home/site/wwwroot/wp-includes/class-wp-hook.php(287): register_block_core_archives('')
+#1 /home/site/wwwroot/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/site/wwwroot/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/site/wwwroot/wp-settings.php(540): do_action('init')
+#4 /home/site/wwwroot/wp-config.php(89): require_once('/home/site/wwwr...')
+#5 /home/site/wwwroot/wp-load.php(37): require_once('/home/site/wwwr...')
+#6 /home/site/wwwroot/wp-admin/admin-ajax.php(22): require_once('/home/site/wwwr...')
+#7 {main}
+  thrown в /home/site/wwwroot/wp-includes/blocks/archives.php на строке 112
+
+2021-03-25T15:59:37+00:00 CRITICAL Uncaught Error: Call to undefined function register_block_type_from_metadata() in /home/site/wwwroot/wp-includes/blocks/archives.php:112
+Stack trace:
+#0 /home/site/wwwroot/wp-includes/class-wp-hook.php(287): register_block_core_archives('')
+#1 /home/site/wwwroot/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/site/wwwroot/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/site/wwwroot/wp-settings.php(540): do_action('init')
+#4 /home/site/wwwroot/wp-config.php(89): require_once('/home/site/wwwr...')
+#5 /home/site/wwwroot/wp-load.php(37): require_once('/home/site/wwwr...')
+#6 /home/site/wwwroot/wp-blog-header.php(13): require_once('/home/site/wwwr...')
+#7 /home/site/wwwroot/index.php(17): require('/home/site/wwwr...')
+#8 {main}
+  thrown в /home/site/wwwroot/wp-includes/blocks/archives.php на строке 112
+
+2021-03-25T15:59:39+00:00 CRITICAL Uncaught Error: Call to undefined function register_block_type_from_metadata() in /home/site/wwwroot/wp-includes/blocks/archives.php:112
+Stack trace:
+#0 /home/site/wwwroot/wp-includes/class-wp-hook.php(287): register_block_core_archives('')
+#1 /home/site/wwwroot/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/site/wwwroot/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/site/wwwroot/wp-settings.php(540): do_action('init')
+#4 /home/site/wwwroot/wp-config.php(89): require_once('/home/site/wwwr...')
+#5 /home/site/wwwroot/wp-load.php(37): require_once('/home/site/wwwr...')
+#6 /home/site/wwwroot/wp-blog-header.php(13): require_once('/home/site/wwwr...')
+#7 /home/site/wwwroot/index.php(17): require('/home/site/wwwr...')
+#8 {main}
+  thrown в /home/site/wwwroot/wp-includes/blocks/archives.php на строке 112
+
+2021-03-25T15:59:48+00:00 CRITICAL Uncaught Error: Call to undefined function register_block_type_from_metadata() in /home/site/wwwroot/wp-includes/blocks/archives.php:112
+Stack trace:
+#0 /home/site/wwwroot/wp-includes/class-wp-hook.php(287): register_block_core_archives('')
+#1 /home/site/wwwroot/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/site/wwwroot/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/site/wwwroot/wp-settings.php(540): do_action('init')
+#4 /home/site/wwwroot/wp-config.php(89): require_once('/home/site/wwwr...')
+#5 /home/site/wwwroot/wp-load.php(37): require_once('/home/site/wwwr...')
+#6 /home/site/wwwroot/wp-admin/admin-ajax.php(22): require_once('/home/site/wwwr...')
+#7 {main}
+  thrown в /home/site/wwwroot/wp-includes/blocks/archives.php на строке 112
+
+2021-03-25T16:02:00+00:00 CRITICAL Uncaught Error: Call to undefined function rest_get_endpoint_args_for_schema() in /home/site/wwwroot/wp-includes/rest-api/endpoints/class-wp-rest-controller.php:628
+Stack trace:
+#0 /home/site/wwwroot/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version1/class-wc-rest-coupons-v1-controller.php(68): WP_REST_Controller->get_endpoint_args_for_item_schema('POST')
+#1 /home/site/wwwroot/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Server.php(41): WC_REST_Coupons_V1_Controller->register_routes()
+#2 /home/site/wwwroot/wp-includes/class-wp-hook.php(287): Automattic\WooCommerce\RestApi\Server->register_rest_routes(Object(WP_REST_Server))
+#3 /home/site/wwwroot/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#4 /home/site/wwwroot/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/site/wwwroot/wp-includes/rest-api.php(479): do_action('rest_api_init', Object(WP_REST_Server))
+#6 /home/site/wwwroot/wp-includes/rest-api.php(305): rest_get_ в /home/site/wwwroot/wp-includes/rest-api/endpoints/class-wp-rest-controller.php на строке 628
+
