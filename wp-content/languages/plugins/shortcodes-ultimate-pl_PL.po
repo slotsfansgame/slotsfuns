@@ -1,0 +1,3020 @@
+# Translation of Plugins - WordPress Shortcodes Plugin — Shortcodes Ultimate - Stable (latest release) in Polish
+# This file is distributed under the same license as the Plugins - WordPress Shortcodes Plugin — Shortcodes Ultimate - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-27 09:55:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - WordPress Shortcodes Plugin — Shortcodes Ultimate - Stable (latest release)\n"
+
+#: templates/single-post.php:19
+msgid "%n comments"
+msgstr "%n komentarzy"
+
+#: templates/default-loop.php:24 templates/single-post.php:19
+msgid "1 comment"
+msgstr "1 komentarz"
+
+#: templates/default-loop.php:24 templates/single-post.php:19
+msgid "0 comments"
+msgstr "0 komentarzy"
+
+#: templates/default-loop.php:16 templates/single-post.php:17
+msgid "Posted"
+msgstr "Zamieszczone"
+
+#: templates/default-loop.php:32 templates/list-loop.php:16
+#: templates/single-post.php:32 templates/teaser-loop.php:20
+msgid "Posts not found"
+msgstr "Wpisów nie znaleziono"
+
+#: inc/core/generator.php:611
+msgid "Get more styles"
+msgstr "Pobierz więcej styli"
+
+#: inc/core/generator.php:603
+msgid "Open dropdown to choose one of new styles"
+msgstr "Otwórz menu rozwijane, aby wybrać jeden z nowych styli"
+
+#: inc/core/generator.php:602
+msgid "Additional skins successfully installed"
+msgstr "Dodatkowe skórki zostały pomyślnie zainstalowane"
+
+#: inc/core/generator.php:392 inc/core/generator.php:395
+msgid "Presets not found"
+msgstr "Nie znaleziono ustawień domyślnych"
+
+#: inc/core/generator.php:363
+msgid "Save current settings as preset"
+msgstr "Zachowaj aktualne ustawienia, jako domyśle"
+
+#: inc/core/generator.php:360
+msgid "Presets"
+msgstr "Ustawienia domyślne"
+
+#: inc/core/generator.php:315
+msgid "Access denied"
+msgstr "Odmowa dostępu"
+
+#: inc/core/generator.php:272
+msgid "Click to set this value"
+msgstr "Kliknij, aby ustawić tę wartość"
+
+#: inc/core/generator.php:247
+msgid "Live preview"
+msgstr "Podgląd na żywo"
+
+#: inc/core/generator.php:231
+msgid "Shortcode not specified"
+msgstr "Shortcode nie został określony"
+
+#: inc/core/generator.php:192
+msgid "Filter by type"
+msgstr "Filtruj wg. rodzaju"
+
+#: inc/core/generator.php:189
+msgid "Search for shortcodes"
+msgstr "Wyszukaj shortcode"
+
+#: inc/core/generator.php:177
+msgid "Plugin homepage"
+msgstr "Strona domowa wtyczki"
+
+#: inc/core/generator.php:176
+msgid "Plugin settings"
+msgstr "Ustawienia wtyczki"
+
+#: inc/core/generator.php:54 inc/core/generator.php:119
+#: inc/core/generator.php:246
+msgid "Insert shortcode"
+msgstr "Wstaw shortcode"
+
+#: inc/core/assets.php:123
+msgid "Next (Right arrow key)"
+msgstr "Kolejny (Przycisk strzałki w prawo)"
+
+#: inc/core/assets.php:122
+msgid "Previous (Left arrow key)"
+msgstr "Poprzedni (Przycisk strzałki w lewo)"
+
+#: inc/core/assets.php:121
+msgid "Loading..."
+msgstr "Trwa ładowanie..."
+
+#: inc/core/assets.php:120
+msgid "Close (Esc)"
+msgstr "Zamknij (Esc)"
+
+#: inc/core/assets.php:118
+msgid "This shortcode doesn't work in live preview. Please insert it into editor and preview on the site."
+msgstr "Ten shortcode nie działa w podglądzie na żywo. Proszę, wpisz go w edytor i obejrzyj wynik na stronie."
+
+#: inc/core/assets.php:89
+msgid "Last used settings"
+msgstr "Ostatnio używane ustawienia"
+
+#: inc/core/assets.php:88
+msgid "New preset"
+msgstr "Nowe ustawienia"
+
+#: inc/core/assets.php:87
+msgid "Please enter a name for new preset"
+msgstr "Proszę, wprowadź nazwę dla nowych ustawień"
+
+#: inc/core/assets.php:86
+msgid "Add selected images"
+msgstr "Dodaj zaznaczone obrazy"
+
+#: inc/core/assets.php:85
+msgid "Select images"
+msgstr "Wybierz obrazy"
+
+#: inc/core/assets.php:84
+msgid "Insert"
+msgstr "Wprowadź"
+
+#: inc/core/assets.php:83
+msgid "Choose file"
+msgstr "Wybierz plik"
+
+#: inc/core/widget.php:46
+msgid "Title:"
+msgstr "Tytuł:"
+
+#: inc/core/generator-views.php:177
+msgid "Select taxonomy and it's terms.<br>You can select multiple terms with Ctrl (Cmd) key"
+msgstr "Wybierz taksonomię i określenia.<br>Aby wybrać wiele określeń jednocześnie, użyj przycisku Ctrl (Cmd)"
+
+#: inc/core/generator-views.php:177
+msgid "Select categories to retrieve posts from.<br>You can select multiple categories with Ctrl (Cmd) key"
+msgstr "Wybierz kategorie z których będą pobierane wpisy.<br>Aby wybrać wiele kategorii jednocześnie, użyj przycisku Ctrl (Cmd)"
+
+#: inc/core/generator-views.php:177
+msgid "Click the button above and select images.<br>You can select multimple images with Ctrl (Cmd) key"
+msgstr "W celu wybrania obrazów, kliknij przycisk powyżej.<br>Aby wybrać wiele grafik jednocześnie, użyj przycisku Ctrl (Cmd)"
+
+#: inc/core/generator-views.php:177
+msgid "Add images"
+msgstr "Dodaj obrazy"
+
+#: inc/core/generator-views.php:166
+msgid "Select taxonomy"
+msgstr "Wybierz taksonomię"
+
+#: inc/core/generator-views.php:155
+msgid "Select images source"
+msgstr "Wybierz źródło obrazów"
+
+#: inc/core/generator-views.php:135
+msgid "Border color"
+msgstr "Kolor obramowania"
+
+#: inc/core/generator-views.php:135
+msgid "Border style"
+msgstr "Styl obramowania"
+
+#: inc/core/generator-views.php:135
+msgid "Border width"
+msgstr "Szerokość obramowania"
+
+#: inc/core/generator-views.php:124
+msgid "Blur"
+msgstr "Rozmycie"
+
+#: inc/core/generator-views.php:124
+msgid "Vertical offset"
+msgstr "Przesunięcie w pionie"
+
+#: inc/core/generator-views.php:124
+msgid "Horizontal offset"
+msgstr "Przesunięcie w poziomie"
+
+#: inc/core/generator-views.php:103
+msgid "Filter icons"
+msgstr "Filtruj ikony"
+
+#: inc/core/generator-views.php:103
+msgid "Icon picker"
+msgstr "Wybierz ikonę"
+
+#: inc/core/generator-views.php:98 inc/core/generator-views.php:103
+msgid "Media manager"
+msgstr "Dodaj medium"
+
+#: inc/core/generator-views.php:93
+msgid "No"
+msgstr "Nie"
+
+#: inc/core/generator-views.php:93
+msgid "Yes"
+msgstr "Tak"
+
+#: includes/functions-galleries.php:420
+msgid "Use this field to add custom links to slides used with Slider, Carousel and Custom Gallery shortcodes"
+msgstr "Skorzystaj z tego pola, aby dodać własne linki do slajdów w shortcode Slider'a, Karuzeli oraz Konfigurowalnej Galerii"
+
+#: includes/functions-galleries.php:414
+msgid "Slide link"
+msgstr "Link slajdu"
+
+#: includes/config/borders.php:12
+msgid "Ridge"
+msgstr "Wypukłe"
+
+#: includes/config/borders.php:11
+msgid "Groove"
+msgstr "Wgłębiony"
+
+#: includes/config/borders.php:7
+msgid "Solid"
+msgstr "Jednolity"
+
+#: includes/config/groups.php:12
+msgid "Other"
+msgstr "Inny"
+
+#: includes/config/groups.php:9
+msgid "Media"
+msgstr "Media"
+
+#: inc/core/generator.php:290 includes/config/groups.php:7
+msgid "Content"
+msgstr "Treść"
+
+#: includes/config/groups.php:6
+msgid "All"
+msgstr "Wszystko"
+
+#: includes/shortcodes/vimeo.php:76
+msgid "Vimeo video"
+msgstr "Film z Vimeo"
+
+#: includes/shortcodes/vimeo.php:15
+msgid "Url of Vimeo page with video"
+msgstr "Url do strony Vimeo z filmem"
+
+#: includes/shortcodes/vimeo.php:8
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: includes/shortcodes/tooltip.php:105
+msgid "Tooltip window with custom content"
+msgstr "Okienko podpowiedzi z własną treścią"
+
+#: includes/shortcodes/tooltip.php:95
+msgid "Show close button"
+msgstr "Pokaż przycisk zamknięcia"
+
+#: includes/shortcodes/tooltip.php:94
+msgid "Close button"
+msgstr "Przycisk zamknięcia"
+
+#: includes/shortcodes/tooltip.php:89
+msgid "Select tooltip behavior"
+msgstr "Wybierz zachowanie podpowiedzi"
+
+#: includes/shortcodes/tooltip.php:88
+msgid "Behavior"
+msgstr "Zachowanie"
+
+#: includes/shortcodes/tooltip.php:85
+msgid "Always visible"
+msgstr "Zawsze widoczne"
+
+#: includes/shortcodes/tooltip.php:84
+msgid "Show and hide by mouse click"
+msgstr "Pokaż i ukryj po kliknięciu myszą"
+
+#: includes/shortcodes/tooltip.php:83
+msgid "Show and hide on mouse hover"
+msgstr "Pokaż i ukryj po najechaniu myszą (hover)"
+
+#: includes/shortcodes/tooltip.php:78
+msgid "Enter tooltip content here"
+msgstr "Wprowadź tu treść podpowiedzi"
+
+#: includes/shortcodes/tooltip.php:77
+msgid "Tooltip content"
+msgstr "Treści podpowiedzi"
+
+#: includes/shortcodes/tooltip.php:76 includes/shortcodes/tooltip.php:118
+msgid "Tooltip text"
+msgstr "Tekst podpowiedzi"
+
+#: includes/shortcodes/tooltip.php:73
+msgid "Enter title for tooltip window. Leave this field empty to hide the title"
+msgstr "Wprowadź tytuł okienka podpowiedzi. Pozostawienie pola pustym, spowoduje ukrycie tytułu"
+
+#: includes/shortcodes/tooltip.php:72
+msgid "Tooltip title"
+msgstr "Tytuł podpowiedzi"
+
+#: includes/shortcodes/tooltip.php:68
+msgid "Tooltip font size"
+msgstr "Rozmiar czcionki porpowiedzi"
+
+#: includes/shortcodes/tooltip.php:67
+msgid "Font size"
+msgstr "Rozmiar czcionki"
+
+#: includes/shortcodes/tooltip.php:53
+msgid "Use rounded for tooltip. This option is only works with basic styes, e.g. blue, green etc."
+msgstr "Zaokrąglij narożniki podpowiedzi. Opcja ta działa, tylko z podstawowymi stylami, np. niebieskim, zielonym, itp."
+
+#: includes/shortcodes/tooltip.php:52
+msgid "Rounded corners"
+msgstr "Zaokrąglone narożniki"
+
+#: includes/shortcodes/tooltip.php:47
+msgid "Add shadow to tooltip. This option is only works with basic styes, e.g. blue, green etc."
+msgstr "Dodaje cień do podpowiedzi. Opcja ta działa, tylko z podstawowymi stylami, np. niebieskim, zielonym, itp."
+
+#: includes/shortcodes/tooltip.php:41
+msgid "Tooltip position"
+msgstr "Położenie podpowiedzi"
+
+#: includes/shortcodes/tooltip.php:40
+msgid "Position"
+msgstr "Położenie"
+
+#: includes/shortcodes/tooltip.php:35
+msgid "Bottom"
+msgstr "Dół"
+
+#: includes/shortcodes/tooltip.php:34
+msgid "Top"
+msgstr "Góra"
+
+#: includes/shortcodes/tooltip.php:29
+msgid "Tooltip window style"
+msgstr "Wygląd okienka podpowiedzi"
+
+#: includes/shortcodes/tooltip.php:25
+msgid "Cluetip"
+msgstr "Trop"
+
+#: includes/shortcodes/tooltip.php:24
+msgid "Tipped"
+msgstr "Wskazówka"
+
+#: includes/shortcodes/tooltip.php:23
+msgid "jTools"
+msgstr "jTools"
+
+#: includes/shortcodes/tooltip.php:22
+msgid "Bootstrap"
+msgstr "Bootstrap"
+
+#: includes/shortcodes/tooltip.php:21
+msgid "Tipsy"
+msgstr "Porada"
+
+#: includes/shortcodes/tooltip.php:20
+msgid "Youtube"
+msgstr "Youtube"
+
+#: includes/shortcodes/tooltip.php:19
+msgid "Basic: Blue"
+msgstr "Podstawowy: Niebieski"
+
+#: includes/shortcodes/tooltip.php:18
+msgid "Basic: Red"
+msgstr "Podstawowy: Czerwony"
+
+#: includes/shortcodes/tooltip.php:17
+msgid "Basic: Green"
+msgstr "Podstawowy: Zielony"
+
+#: includes/shortcodes/tooltip.php:16
+msgid "Basic: Yellow"
+msgstr "Podstawowy: Żółty"
+
+#: includes/shortcodes/tooltip.php:15
+msgid "Basic: Dark"
+msgstr "Podstawowy: Ciemny"
+
+#: includes/shortcodes/tooltip.php:14
+msgid "Basic: Light"
+msgstr "Podstawowy: Jasny"
+
+#: includes/shortcodes/tooltip.php:7
+msgid "Tooltip"
+msgstr "Podpowiedź"
+
+#: includes/shortcodes/document.php:55
+msgid "Document viewer by Google"
+msgstr "Przeglądarka dokumentów od Google"
+
+#: includes/shortcodes/document.php:41
+msgid "Ignore width and height parameters and make viewer responsive"
+msgstr "Ignoruj parametry szerokości i wysokości, aby przeglądarka była responsywna"
+
+#: includes/shortcodes/document.php:35
+msgid "Viewer height"
+msgstr "Wysokość przeglądarki"
+
+#: includes/shortcodes/document.php:26
+msgid "Viewer width"
+msgstr "Szerokość przeglądarki"
+
+#: includes/shortcodes/document.php:17
+msgid "Url to uploaded document. Supported formats: doc, xls, pdf etc."
+msgstr "Url do przesłanego dokumentu. Obsługiwane formaty: doc, xls, pdf itp."
+
+#: includes/shortcodes/document.php:9
+msgid "Document"
+msgstr "Dokument"
+
+#: includes/shortcodes/animate.php:50
+msgid "Wrapper for animation. Any nested element will be animated"
+msgstr "Obudowa do animacji. Animowany, może być dowolny zagnieżdżony element "
+
+#: includes/shortcodes/animate.php:49
+msgid "Animated content"
+msgstr "Animowana treść "
+
+#: includes/shortcodes/animate.php:40
+msgid "This parameter determines what HTML tag will be used for animation wrapper. Turn this option to YES and animated element will be wrapped in SPAN instead of DIV. Useful for inline animations, like buttons"
+msgstr "Parametr ten określa, jaki znacznik HTML będzie użyty do obudowania animacji. Włączenie Tak powoduje obudowanie animacji w znacznik SPAN, zamiast DIV. Jest to przydatne do animacji inline, jak np. przyciski."
+
+#: includes/shortcodes/animate.php:39
+msgid "Inline"
+msgstr "Inline"
+
+#: includes/shortcodes/animate.php:34
+msgid "Animation delay (seconds)"
+msgstr "Opóźnienie rozpoczęcia animacji (sekundy)"
+
+#: includes/shortcodes/animate.php:33
+msgid "Delay"
+msgstr "Opóźnienie"
+
+#: includes/shortcodes/animate.php:25
+msgid "Animation duration (seconds)"
+msgstr "Czas trwania (sekundy)"
+
+#: includes/shortcodes/animate.php:24
+msgid "Duration"
+msgstr "Czas trwania"
+
+#: includes/shortcodes/animate.php:16
+msgid "Select animation type"
+msgstr "Wybierz rodzaj animacji"
+
+#: includes/shortcodes/animate.php:7 includes/shortcodes/animate.php:15
+msgid "Animation"
+msgstr "Animacja"
+
+#: includes/shortcodes/feed.php:44
+msgid "Feed grabber"
+msgstr "Przechwytywanie RSS'a"
+
+#: includes/shortcodes/feed.php:25
+msgid "Number of items to show"
+msgstr "Liczba elementów do pokazania"
+
+#: includes/shortcodes/heading.php:62
+msgid "Styled heading"
+msgstr "Wygląd nagłówka"
+
+#: includes/shortcodes/heading.php:61
+msgid "Heading text"
+msgstr "Tekst w nagłówku"
+
+#: includes/shortcodes/heading.php:47
+msgid "Bottom margin (pixels)"
+msgstr "Margines dolny (w pikselach)"
+
+#: includes/shortcodes/heading.php:38
+msgid "Heading text alignment"
+msgstr "Wyrównanie tekstu nagłówka"
+
+#: includes/shortcodes/heading.php:27
+msgid "Select heading size (pixels)"
+msgstr "Wybierz rozmiar nagłówka (w pikselach)"
+
+#: includes/shortcodes/heading.php:18
+msgid "Choose style for this heading"
+msgstr "Wybierz styl dla tego nagłówka"
+
+#: includes/shortcodes/heading.php:7
+msgid "Heading"
+msgstr "Nagłówek"
+
+#: includes/shortcodes/label.php:33
+msgid "Styled label"
+msgstr "Wygląd etykiety"
+
+#: includes/shortcodes/label.php:23
+msgid "Style of the label"
+msgstr "Styl etykiety"
+
+#: includes/shortcodes/label.php:22
+msgid "Type"
+msgstr "Rodzaj"
+
+#: includes/shortcodes/label.php:19
+msgid "Info"
+msgstr "Info"
+
+#: includes/shortcodes/label.php:18
+msgid "Black"
+msgstr "Czarne"
+
+#: includes/shortcodes/label.php:17
+msgid "Important"
+msgstr "Ważne"
+
+#: includes/shortcodes/label.php:16
+msgid "Warning"
+msgstr "Ostrzeżenie"
+
+#: includes/shortcodes/label.php:15
+msgid "Success"
+msgstr "Sukces"
+
+#: includes/shortcodes/label.php:7 includes/shortcodes/label.php:32
+msgid "Label"
+msgstr "Etykieta"
+
+#: includes/shortcodes/gmap.php:63
+msgid "Maps by Google"
+msgstr "Mapy od Google"
+
+#: includes/shortcodes/gmap.php:40
+msgid "Address for the marker. You can type it in any language"
+msgstr "Adres umieszczenia znacznika. Możesz podać adres w dowolnym języku"
+
+#: includes/shortcodes/gmap.php:39
+msgid "Marker"
+msgstr "Znacznik"
+
+#: includes/shortcodes/gmap.php:34
+msgid "Ignore width and height parameters and make map responsive"
+msgstr "Ignoruj parametry szerokości i wysokości, aby mapa była responsywna"
+
+#: includes/shortcodes/gmap.php:28
+msgid "Map height"
+msgstr "Wysokość mapy"
+
+#: includes/shortcodes/gmap.php:19
+msgid "Map width"
+msgstr "Szerokość mapy"
+
+#: includes/shortcodes/table.php:39
+msgid ""
+"<table>\n"
+"<tr>\n"
+"\t<td>Table</td>\n"
+"\t<td>Table</td>\n"
+"</tr>\n"
+"<tr>\n"
+"\t<td>Table</td>\n"
+"\t<td>Table</td>\n"
+"</tr>\n"
+"</table>"
+msgstr ""
+"<table>\n"
+"<tr>\n"
+"\t<td>Tabela</td>\n"
+"\t<td>Tabela</td>\n"
+"</tr>\n"
+"<tr>\n"
+"\t<td>Tabela</td>\n"
+"\t<td>Tabela</td>\n"
+"</tr>\n"
+"</table>"
+
+#: includes/shortcodes/table.php:8
+msgid "Table"
+msgstr "Tabela"
+
+#: includes/shortcodes/members.php:41
+msgid "Content for logged in members only"
+msgstr "Treść dla zalogowanych użytkowników"
+
+#: includes/shortcodes/members.php:40
+msgid "Content for logged members"
+msgstr "Wpisz treść dostępną - jedynie, dla zalogowanych użytkowników"
+
+#: includes/shortcodes/members.php:30 includes/shortcodes/members.php:31
+msgid "Login link url"
+msgstr "Link do strony logowania"
+
+#: includes/shortcodes/members.php:26
+msgid "Text for the login link"
+msgstr "Treść tekstowego linku do strony logowania"
+
+#: includes/shortcodes/members.php:25
+msgid "Login link text"
+msgstr "Tekst linku logowania"
+
+#: includes/shortcodes/members.php:24
+msgid "login"
+msgstr "zaloguj mnie"
+
+#: includes/shortcodes/members.php:21
+msgid "This color will applied only to box for not logged users"
+msgstr "Kolor ten zostanie użyty w polu, wyłącznie dla niezalogowanych użytkowników"
+
+#: includes/shortcodes/members.php:20
+msgid "Box color"
+msgstr "Kolor pola"
+
+#: includes/shortcodes/members.php:15
+msgid "Message for not logged users"
+msgstr "Wiadomość dla niezalogowanych użytkowników"
+
+#: includes/shortcodes/members.php:14
+msgid "Message"
+msgstr "Wiadomość"
+
+#: includes/shortcodes/members.php:13
+msgid "This content is for registered users only. Please %login%."
+msgstr "Treść dostępna jedynie dla zarejestrowanych użytkowników. Prosimy o zalogowanie się."
+
+#: includes/shortcodes/members.php:8
+msgid "Members"
+msgstr "Użytkownicy"
+
+#: includes/shortcodes/lightbox.php:63
+msgid "please specify correct source"
+msgstr "proszę, wprowadź właściwe źródło"
+
+#: includes/shortcodes/lightbox.php:44
+msgid "Lightbox window with custom content"
+msgstr "Wyskakujące okienko - typu lightbox, z dowolną zawartością"
+
+#: includes/shortcodes/lightbox.php:28
+msgid "Insert here URL or CSS selector. Use URL for Iframe and Image content types. Use CSS selector for Inline content type.<br />Example values:<br /><b%value>http://www.youtube.com/watch?v=XXXXXXXXX</b> - YouTube video (iframe)<br /><b%value>http://example.com/wp-content/uploads/image.jpg</b> - uploaded image (image)<br /><b%value>http://example.com/</b> - any web page (iframe)<br /><b%value>#my-custom-popup</b> - any HTML content (inline)"
+msgstr "Wstaw tu URL albo selektor CSS-owy. Jeśli zawartością jest Iframe albo Obraz wprowadź jego URL. Jeśli zawartością jest Inline wprowadź selektor CSS-owy.<br />Przykładowe wartości:<br /><b%value>http://www.youtube.com/watch?v=XXXXXXXXX</b> - Wideo z YouTube'a (iframe)<br /><b%value>http://example.com/wp-content/uploads/image.jpg</b> - przesłany obraz (obraz)<br /><b%value>http://example.com/</b> - dowolna strona (iframe)<br /><b%value>#my-custom-popup</b> - dowolna treść HTML (inline)"
+
+#: includes/shortcodes/lightbox.php:27
+msgid "Content source"
+msgstr "Źródło treści"
+
+#: includes/shortcodes/lightbox.php:23
+msgid "Select type of the lightbox window content"
+msgstr "Wybierz rodzaj zawartości wyskakującego okienka"
+
+#: includes/shortcodes/lightbox.php:22
+msgid "Content type"
+msgstr "Rodzaj zawartości"
+
+#: includes/shortcodes/lightbox.php:19
+msgid "Inline (html content)"
+msgstr "Inline (treść html)"
+
+#: includes/shortcodes/lightbox.php:18
+msgid "Image"
+msgstr "Obraz"
+
+#: includes/shortcodes/lightbox.php:17
+msgid "Iframe"
+msgstr "Iframe"
+
+#: includes/shortcodes/expand.php:94
+msgid "Expandable text block"
+msgstr "Rozszerzalny blok tekstowy"
+
+#: includes/shortcodes/expand.php:93
+msgid "This text block can be expanded"
+msgstr "Ten blok tekstowy, może być rozszerzony"
+
+#: includes/shortcodes/expand.php:84
+msgid "Add an icon to the less link"
+msgstr "Dodaj ikonę do linku \"Mniej\""
+
+#: includes/shortcodes/expand.php:83
+msgid "Less icon"
+msgstr "Ikona \"Mniej\""
+
+#: includes/shortcodes/expand.php:78
+msgid "Add an icon to the more link"
+msgstr "Dodaj ikonę do linku \"Więcej\""
+
+#: includes/shortcodes/expand.php:77
+msgid "More icon"
+msgstr "Ikona \"Więcej\""
+
+#: includes/shortcodes/expand.php:72
+msgid "Select link alignment"
+msgstr "Wybierz wyrównanie linku"
+
+#: includes/shortcodes/expand.php:71
+msgid "Link align"
+msgstr "Wyrównanie linku"
+
+#: includes/shortcodes/expand.php:61
+msgid "Select the style for more/less link"
+msgstr "Wybierz styl dla linku więcej/mniej"
+
+#: includes/shortcodes/expand.php:60
+msgid "Link style"
+msgstr "Styl linku"
+
+#: includes/shortcodes/expand.php:54
+msgid "Underlined"
+msgstr "Podkreślenie"
+
+#: includes/shortcodes/expand.php:48
+msgid "Pick the link color"
+msgstr "Wybierz kolor linku"
+
+#: includes/shortcodes/expand.php:41
+msgid "Pick the text color"
+msgstr "Wybierz kolor tekstu"
+
+#: includes/shortcodes/expand.php:34
+msgid "This option allows you to hide less link, when the text block has been expanded"
+msgstr "Opcja ta, umożliwia Ci ukrycie linku \"Mniej\", po rozszerzeniu bloku tekstu na całą treść"
+
+#: includes/shortcodes/expand.php:33
+msgid "Hide less link"
+msgstr "Ukryj link \"Mniej\""
+
+#: includes/shortcodes/expand.php:28
+msgid "Height for collapsed state (in pixels)"
+msgstr "Wysokość zamkniętego tekstu (w pikselach)"
+
+#: includes/shortcodes/expand.php:19
+msgid "Enter the text for less link"
+msgstr "Wprowadź tekst linku, pokazującego tylko fragment treści"
+
+#: includes/shortcodes/expand.php:18
+msgid "Less text"
+msgstr "Tekst \"Mniej\""
+
+#: includes/shortcodes/expand.php:17 includes/shortcodes/expand.php:102
+msgid "Show less"
+msgstr "Pokaż mniej"
+
+#: includes/shortcodes/expand.php:14
+msgid "Enter the text for more link"
+msgstr "Wprowadź tekst linku, pokazującego resztę treści"
+
+#: includes/shortcodes/expand.php:13
+msgid "More text"
+msgstr "Tekst \"Więcej\""
+
+#: includes/shortcodes/expand.php:12 includes/shortcodes/expand.php:101
+msgid "Show more"
+msgstr "Pokaż więcej"
+
+#: includes/shortcodes/expand.php:7
+msgid "Expand"
+msgstr "Rozszerz"
+
+#: includes/shortcodes/qrcode.php:110
+msgid "please specify the data"
+msgstr "proszę, zdefiniuj dane "
+
+#: includes/shortcodes/qrcode.php:86
+msgid "Advanced QR code generator"
+msgstr "Zaawansowany generator kodów QR"
+
+#: includes/shortcodes/qrcode.php:71
+msgid "Pick a primary color"
+msgstr "Wybierz kolor pierwszoplanowy"
+
+#: includes/shortcodes/qrcode.php:70
+msgid "Primary color"
+msgstr "Kolor pierwszoplanowy"
+
+#: includes/shortcodes/qrcode.php:65
+msgid "Select link target"
+msgstr "Wybierz cel (target) linku"
+
+#: includes/shortcodes/qrcode.php:55
+msgid "You can make this QR code clickable. Enter here the URL"
+msgstr "Możesz zamienić, ten kod QR w przycisk. Wprowadź tu URL"
+
+#: includes/shortcodes/qrcode.php:50
+msgid "Choose image alignment"
+msgstr "Wybierz rodzaj wyrównania obrazu"
+
+#: includes/shortcodes/qrcode.php:38
+msgid "Thickness of a margin (in pixels)"
+msgstr "Szerokość marginesów (w pikselach) "
+
+#: includes/shortcodes/qrcode.php:29
+msgid "Image width and height (in pixels)"
+msgstr "Wysokość i szerokość obrazu (w pikselach)"
+
+#: includes/shortcodes/qrcode.php:20
+msgid "Enter here short description. This text will be used in alt attribute of QR code"
+msgstr "Wprowadź krótki opis. Będzie on wykorzystany w atrybucie alt (alternatywny tekst) kodu QR"
+
+#: includes/shortcodes/qrcode.php:15
+msgid "The text to store within the QR code. You can use here any text or even URL"
+msgstr "Tekst do zakodowania w kodzie QR. Możesz podać dowolny tekst, a nawet URL"
+
+#: includes/shortcodes/qrcode.php:14 includes/config/groups.php:11
+msgid "Data"
+msgstr "Dane"
+
+#: includes/shortcodes/qrcode.php:8
+msgid "QR code"
+msgstr "Kod QR"
+
+#: includes/shortcodes/guests.php:19
+msgid "Content for guests only"
+msgstr "Treść jedynie dla gościa"
+
+#: includes/shortcodes/guests.php:7
+msgid "Guests"
+msgstr "Gość"
+
+#: includes/shortcodes/audio.php:42
+msgid "Custom audio player"
+msgstr "Własny odtwarzacz audio"
+
+#: includes/shortcodes/audio.php:21
+msgid "Player width. You can specify width in percents and player will be responsive. Example values: <b%value>200px</b>, <b%value>100&#37;</b>"
+msgstr "Szerokość odtwarzacza. Możesz określić szerokość w procentach, a wtedy odtwarzacz będzie responsywny. Przykładowe wartości:  <b%value>200px</b>, <b%value>100&#37;</b>"
+
+#: includes/shortcodes/audio.php:15
+msgid "Audio file url. Supported formats: mp3, ogg"
+msgstr "Url pliku audio. Obsługiwane formaty: mp3, ogg"
+
+#: includes/shortcodes/audio.php:7
+msgid "Audio"
+msgstr "Audio"
+
+#: includes/shortcodes/row.php:24
+msgid "Row for flexible columns"
+msgstr "Rząd na konfigurowalne kolumny"
+
+#: includes/shortcodes/divider.php:79
+msgid "Content divider with optional TOP link"
+msgstr "Separator treści z opcjonalnym linkiem DO GÓRY"
+
+#: includes/shortcodes/divider.php:70
+msgid "Adjust the top and bottom margins of this divider (in pixels)"
+msgstr "Dostosuj górny oraz dolny margines separatora (w pikselach)"
+
+#: includes/shortcodes/divider.php:61
+msgid "Height of the divider (in pixels)"
+msgstr "Wysokość separatora (w pikselach)"
+
+#: includes/shortcodes/divider.php:52
+msgid "Pick the color for TOP link"
+msgstr "Wybierz kolor linku DO GÓRY"
+
+#: includes/shortcodes/expand.php:47 includes/shortcodes/divider.php:51
+msgid "Link color"
+msgstr "Kolor linka"
+
+#: includes/shortcodes/divider.php:45
+msgid "Pick the color for divider"
+msgstr "Wybierz kolor separatora"
+
+#: includes/shortcodes/divider.php:44
+msgid "Divider color"
+msgstr "Kolor separatora"
+
+#: includes/shortcodes/divider.php:38
+msgid "Choose style for this divider"
+msgstr "Wybierz styl dla tego separatora"
+
+#: includes/shortcodes/divider.php:34 includes/config/borders.php:10
+msgid "Double"
+msgstr "Podwójne"
+
+#: includes/shortcodes/expand.php:56 includes/shortcodes/divider.php:33
+#: includes/config/borders.php:9
+msgid "Dashed"
+msgstr "Kreskowanie"
+
+#: includes/shortcodes/expand.php:55 includes/shortcodes/divider.php:32
+#: includes/config/borders.php:8
+msgid "Dotted"
+msgstr "Kropkowane"
+
+#: includes/shortcodes/divider.php:21
+msgid "Text for the GO TOP link"
+msgstr "Tekst linku DO GÓRY"
+
+#: includes/shortcodes/divider.php:20
+msgid "Link text"
+msgstr "Treść tekstu linku"
+
+#: includes/shortcodes/divider.php:19
+msgid "Go to top"
+msgstr "Powrót na górę"
+
+#: includes/shortcodes/divider.php:16
+msgid "Show link to top of the page or not"
+msgstr "Czy wyświetlać link przejścia na górę strony?"
+
+#: includes/shortcodes/divider.php:15
+msgid "Show TOP link"
+msgstr "Wyświetl link DO GÓRY"
+
+#: includes/shortcodes/divider.php:8
+msgid "Divider"
+msgstr "Separator"
+
+#: includes/shortcodes/user.php:73
+msgid "password field is not allowed"
+msgstr "pole hasła, jest niedozwolone"
+
+#: includes/shortcodes/user.php:52
+msgid "You can specify custom user ID. Leave this field empty to use an ID of the current user"
+msgstr "Wpisz dowolne ID użytkownika. Jeśli pozostawisz to puste, zostanie użyte ID aktualnego użytkownika"
+
+#: includes/shortcodes/user.php:51
+msgid "User ID"
+msgstr "ID użytkownika"
+
+#: includes/shortcodes/user.php:28
+msgid "Status"
+msgstr "Status"
+
+#: includes/shortcodes/user.php:27
+msgid "Activation key"
+msgstr "Klucz aktywacji"
+
+#: includes/shortcodes/user.php:26
+msgid "Registered"
+msgstr "Zarejestrowany"
+
+#: includes/shortcodes/user.php:24
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/shortcodes/user.php:23
+msgid "Nice name"
+msgstr "Pseudonim"
+
+#: includes/shortcodes/user.php:22
+msgid "Login"
+msgstr "Nazwa użytkownika"
+
+#: includes/shortcodes/user.php:20
+msgid "Display name"
+msgstr "Przedstawiaj mnie jako"
+
+#: includes/shortcodes/user.php:8
+msgid "User data"
+msgstr "Dane o użytkowniku"
+
+#: includes/shortcodes/carousel.php:146
+msgid "Customizable image carousel"
+msgstr "Konfigurowalna karuzela obrazów"
+
+#: includes/shortcodes/carousel.php:129
+msgid "Choose interval between auto animations. Set to 0 to disable autoplay"
+msgstr "Ustal czas pomiędzy animacjami zmiany slajdów. Wybranie 0 powoduje wyłączenie auto-odtwarzania"
+
+#: includes/shortcodes/carousel.php:120
+msgid "Allow to rotate carousel with mouse wheel"
+msgstr "Pozwól na obracanie karuzelą, za pomocą kółka myszki"
+
+#: includes/shortcodes/carousel.php:104
+msgid "Is carousel centered on the page"
+msgstr "Czy karuzela, ma być wyśrodkowana na stronie?"
+
+#: includes/shortcodes/carousel.php:99
+msgid "Display titles for each item"
+msgstr "Wyświetlaj tytuł każdego elementu"
+
+#: includes/shortcodes/carousel.php:94
+msgid "How much items are scrolled in one transition"
+msgstr "Ile elementów jednocześnie, jest przewijanych w jednej animacji"
+
+#: includes/shortcodes/carousel.php:93
+msgid "Scroll number"
+msgstr "Wartość przewinięcia"
+
+#: includes/shortcodes/carousel.php:86
+msgid "How much carousel items is visible"
+msgstr "Określ ile elementów karuzeli będzie widoczne"
+
+#: includes/shortcodes/carousel.php:85
+msgid "Items to show"
+msgstr "Elementów do wyświetlenia"
+
+#: includes/shortcodes/carousel.php:77
+msgid "Ignore width and height parameters and make carousel responsive"
+msgstr "Ignoruj parametry szerokości i wysokości, aby karuzela była responsywna"
+
+#: includes/shortcodes/carousel.php:71
+msgid "Carousel height (in pixels)"
+msgstr "Wysokość karuzeli (w pikselach)"
+
+#: includes/shortcodes/carousel.php:62
+msgid "Carousel width (in pixels)"
+msgstr "Szerokość karuzeli (w pikselach)"
+
+#: includes/shortcodes/carousel.php:7
+msgid "Carousel"
+msgstr "Karuzela"
+
+#: includes/shortcodes/pullquote.php:18
+msgid "Pullquote alignment (float)"
+msgstr "Wyrównanie ustępu (float)"
+
+#: includes/shortcodes/pullquote.php:7 includes/shortcodes/pullquote.php:27
+#: includes/shortcodes/pullquote.php:28
+msgid "Pullquote"
+msgstr "Ustęp"
+
+#: includes/shortcodes/tabs.php:107
+msgid "Choose how to open the custom tab link"
+msgstr "Wybierz w jaki sposób ma być otwierany link twojej zakładki "
+
+#: includes/shortcodes/tabs.php:96 includes/shortcodes/user.php:25
+#: includes/shortcodes/feed.php:15
+msgid "URL"
+msgstr "URL"
+
+#: includes/shortcodes/tabs.php:87
+msgid "Is this tab disabled"
+msgstr "Czy zakładka ma być nieaktywna?"
+
+#: includes/shortcodes/tabs.php:86
+msgid "Disabled"
+msgstr "Nieaktywna"
+
+#: includes/shortcodes/tabs.php:81 includes/shortcodes/tabs.php:190
+msgid "Tab title"
+msgstr "Tytuł zakładki"
+
+#: includes/shortcodes/tabs.php:79
+msgid "Tab name"
+msgstr "Nazwa zakładki"
+
+#: includes/shortcodes/tabs.php:74
+msgid "Did you know that you need to wrap single tabs with [tabs] shortcode?"
+msgstr "Wiesz, że musisz obudować pojedynczą zakładkę shortcode [tabs]?"
+
+#: includes/shortcodes/tabs.php:73
+msgid "Single tab"
+msgstr "Pojedyncza zakładka"
+
+#: includes/shortcodes/tabs.php:72
+msgid "Tab content"
+msgstr "Treść zakładki"
+
+#: includes/shortcodes/tabs.php:68
+msgid "Tab"
+msgstr "Zakładka"
+
+#: includes/shortcodes/tabs.php:36
+msgid "Vertical"
+msgstr "Pionowo"
+
+#: includes/shortcodes/tabs.php:31
+msgid "Select which tab is open by default"
+msgstr "Wybierz, która zakładka ma być domyślnie otwarta "
+
+#: includes/shortcodes/tabs.php:30
+msgid "Active tab"
+msgstr "Aktywna zakładka"
+
+#: includes/shortcodes/tabs.php:22
+msgid "Choose style for this tabs"
+msgstr "Wybierz styl dla zakładek"
+
+#: includes/shortcodes/tabs.php:11
+msgid "Tabs container"
+msgstr "Kontener z zakładkami "
+
+#: includes/shortcodes/tabs.php:7
+msgid "Tabs"
+msgstr "Zakładki"
+
+#: includes/shortcodes/button.php:150
+msgid "Styled button"
+msgstr "Wygląd przycisku"
+
+#: includes/shortcodes/button.php:149
+msgid "Button text"
+msgstr "Tekst przycisku"
+
+#: includes/shortcodes/button.php:130
+msgid "Here you can add value for the rel attribute.<br>Example values: <b%value>nofollow</b>, <b%value>lightbox</b>"
+msgstr "Możesz tu podać wartość/ci atrybutu rel.<br>Przykładowe wartości: <b%value>nofollow</b>, <b%value>lightbox</b>"
+
+#: includes/shortcodes/button.php:129
+msgid "Rel attribute"
+msgstr "Atrybut rel"
+
+#: includes/shortcodes/button.php:125
+msgid "Advanced JavaScript code for onClick action"
+msgstr "Zaawansowane: kod JavaScript do wykonania, przy zdarzeniu onClick"
+
+#: includes/shortcodes/button.php:124
+msgid "onClick"
+msgstr "onClick"
+
+#: includes/shortcodes/button.php:115
+msgid "Small description under button text. This option is incompatible with icon."
+msgstr "Mały opis pod tekstem przycisku. Po wybraniu ikony, ta opcja nie działa poprawnie  "
+
+#: includes/shortcodes/user.php:18 includes/shortcodes/button.php:114
+msgid "Description"
+msgstr "Opis"
+
+#: includes/shortcodes/button.php:110
+msgid "Button text shadow"
+msgstr "Cień tekstu przycisku"
+
+#: includes/shortcodes/button.php:109
+msgid "Text shadow"
+msgstr "Cień tekstu"
+
+#: includes/shortcodes/button.php:98
+msgid "You can upload custom icon for this button or pick a built-in icon"
+msgstr "Możesz załadować własną ikonę dla tego przycisku, albo wybrać ją spośród ikon wbudowanych"
+
+#: includes/shortcodes/button.php:92
+msgid "Radius of button corners. Auto-radius calculation based on button size"
+msgstr "Promień narożników przycisku. Automatyczne obliczanie promienia, na podstawie rozmiaru przycisku"
+
+#: includes/shortcodes/button.php:85 includes/config/crop-ratios.php:43
+msgid "Square"
+msgstr "Kwadrat"
+
+#: includes/shortcodes/button.php:84
+msgid "Round"
+msgstr "Zaokrąglenie"
+
+#: includes/shortcodes/button.php:83
+msgid "Auto"
+msgstr "Auto"
+
+#: includes/shortcodes/button.php:78
+msgid "Is button centered on the page"
+msgstr "Czy przycisk, ma być na stronie wyśrodkowany?"
+
+#: includes/shortcodes/button.php:72
+msgid "Fluid buttons has 100% width"
+msgstr "Rozlane przyciski zajmują 100% szerokości"
+
+#: includes/shortcodes/button.php:71
+msgid "Fluid"
+msgstr "Rozlany"
+
+#: includes/shortcodes/button.php:66
+msgid "Button size"
+msgstr "Rozmiar przycisku"
+
+#: includes/shortcodes/button.php:57
+msgid "Button text color"
+msgstr "Kolor tekstu przycisku"
+
+#: includes/shortcodes/button.php:50
+msgid "Button background color"
+msgstr "Kolor tła przycisku"
+
+#: includes/shortcodes/button.php:43
+msgid "Button background style preset"
+msgstr "Ustawienie wyglądu tła przycisku"
+
+#: includes/shortcodes/button.php:39
+msgid "3D"
+msgstr "3D"
+
+#: includes/shortcodes/button.php:38
+msgid "Stroked"
+msgstr "Kreskowany"
+
+#: includes/shortcodes/button.php:33
+msgid "Ghost"
+msgstr "Zjawa"
+
+#: includes/shortcodes/button.php:26
+msgid "Button link target"
+msgstr "Miejsce otwarcia linka, tego przycisku"
+
+#: includes/shortcodes/button.php:16
+msgid "Button link"
+msgstr "Link przycisku"
+
+#: includes/shortcodes/qrcode.php:54 includes/shortcodes/button.php:15
+msgid "Link"
+msgstr "Link"
+
+#: includes/shortcodes/expand.php:57 includes/shortcodes/button.php:8
+msgid "Button"
+msgstr "Przycisk"
+
+#: includes/shortcodes/posts.php:409
+msgid "template not found"
+msgstr "szablonu nie znaleziono"
+
+#: includes/shortcodes/posts.php:195
+msgid "Custom posts query with customizable template"
+msgstr "Filtrowanie wpisów przez konfigurowalny szablon"
+
+#: includes/shortcodes/posts.php:189
+msgid "Select Yes to ignore posts that is sticked"
+msgstr "Wybierz Tak, aby ignorować przypięte wpisy"
+
+#: includes/shortcodes/posts.php:188
+msgid "Ignore sticky"
+msgstr "Ignoruj przypięte wpisy"
+
+#: includes/shortcodes/posts.php:180
+msgid "Show only posts with selected status"
+msgstr "Pokaż jedynie wpisy w określonych stanach"
+
+#: includes/shortcodes/posts.php:175
+msgid "Trashed"
+msgstr "Kosz"
+
+#: includes/shortcodes/posts.php:174
+msgid "Inherit"
+msgstr "Dziedziczący"
+
+#: includes/shortcodes/posts.php:173
+msgid "Private post"
+msgstr "Prywatny wpis"
+
+#: includes/shortcodes/posts.php:172
+msgid "Future post"
+msgstr "Zaplanowany wpis"
+
+#: includes/shortcodes/posts.php:171
+msgid "Auto-draft"
+msgstr "Automatycznie zapisany szkic"
+
+#: includes/shortcodes/posts.php:170
+msgid "Draft"
+msgstr "Szkic"
+
+#: includes/shortcodes/posts.php:169
+msgid "Pending"
+msgstr "Oczekuje na przegląd"
+
+#: includes/shortcodes/posts.php:168
+msgid "Published"
+msgstr "Opublikowane"
+
+#: includes/shortcodes/posts.php:160
+msgid "Show childrens of entered post (enter post ID)"
+msgstr "Pokaż dzieci podanego wpisu (wprowadź ID wpisu rodzica)"
+
+#: includes/shortcodes/posts.php:155
+msgid "Order posts by"
+msgstr "Porządkuj wpisy według"
+
+#: includes/shortcodes/posts.php:154
+msgid "Order by"
+msgstr "Porządkuj według"
+
+#: includes/shortcodes/posts.php:150
+msgid "Meta key values"
+msgstr "Wartości meta key"
+
+#: includes/shortcodes/posts.php:148
+msgid "Comments number"
+msgstr "Liczby komentarzy"
+
+#: includes/shortcodes/posts.php:147
+msgid "Random"
+msgstr "Losowo"
+
+#: includes/shortcodes/posts.php:145
+msgid "Last modified date"
+msgstr "Daty ostatniej modyfikacji"
+
+#: includes/shortcodes/posts.php:144
+msgid "Date"
+msgstr "Daty"
+
+#: includes/shortcodes/posts.php:143
+msgid "Post slug"
+msgstr "Slug'a wpisu"
+
+#: includes/shortcodes/posts.php:134
+msgid "Posts order"
+msgstr "Kolejność wpisów"
+
+#: includes/shortcodes/posts.php:133
+msgid "Order"
+msgstr "Kolejność"
+
+#: includes/shortcodes/posts.php:130
+msgid "Ascending"
+msgstr "Rosnąco"
+
+#: includes/shortcodes/posts.php:129
+msgid "Descending"
+msgstr "Malejąco"
+
+#: includes/shortcodes/posts.php:121
+msgid "Specify offset to start posts loop not from first post"
+msgstr "Określ przesunięcie, od którego rozpocznie działanie pętla pobierająca wpisy - nie będzie to pierwszy wpis"
+
+#: includes/shortcodes/posts.php:120
+msgid "Offset"
+msgstr "Przesunięcie"
+
+#: includes/shortcodes/posts.php:109
+msgid "Enter meta key name to show posts that have this key"
+msgstr "Wprowadź nazwę klucza metadanych (meta_key) aby wyświetlić wszystkie wpisy, które zawierają dany klucz"
+
+#: includes/shortcodes/posts.php:108
+msgid "Meta key"
+msgstr "Meta key (klucz metadanych)"
+
+#: includes/shortcodes/posts.php:101
+msgid "Enter here comma-separated list of author's IDs. Example: 1,7,18"
+msgstr "Wprowadź, oddzielone przecinkami, listę z ID-kami autorów. Przykładowo: 1,7,18"
+
+#: includes/shortcodes/posts.php:100
+msgid "Authors"
+msgstr "Autorzy"
+
+#: includes/shortcodes/posts.php:87
+msgid "Taxonomy term operator"
+msgstr "Operator logiczny taksonomii"
+
+#: includes/shortcodes/posts.php:68
+msgid "Select terms to show posts from"
+msgstr "Wybierz określenia odnoszące się do wpisów, które mają zostać wyświetlone"
+
+#: includes/shortcodes/posts.php:67
+msgid "Terms"
+msgstr "Określenia"
+
+#: includes/shortcodes/posts.php:57
+msgid "Select taxonomy to show posts from"
+msgstr "Wybierz taksonomie, z której mają zostać wyświetlone wpisy"
+
+#: includes/shortcodes/posts.php:47
+msgid "Select post types. Hold Ctrl key to select multiple post types"
+msgstr "Wybierz rodzaj wpisów. Przytrzymaj klawisz Ctrl, aby wybrać wiele rodzajów wpisów"
+
+#: includes/shortcodes/posts.php:46
+msgid "Post types"
+msgstr "Rodzaje wpisów"
+
+#: includes/shortcodes/posts.php:36
+msgid "Specify number of posts that you want to show. Enter -1 to get all posts"
+msgstr "Określ ilość wpisów, które chcesz wyświetlić. Wprowadź -1 aby wyświetlić wszystkie wpisy"
+
+#: includes/shortcodes/posts.php:35
+msgid "Posts per page"
+msgstr "Wpisów na stronę"
+
+#: includes/shortcodes/posts.php:24
+msgid "Enter comma separated ID's of the posts that you want to show"
+msgstr "Wprowadź, oddzielone przecinkami ID-ki wpisów, które chce wyświetlić"
+
+#: includes/shortcodes/posts.php:23
+msgid "Post ID's"
+msgstr "ID-ki wpisów"
+
+#: includes/shortcodes/posts.php:8
+msgid "Posts"
+msgstr "Wpisy"
+
+#: includes/shortcodes/permalink.php:44
+msgid "Permalink to specified post/page"
+msgstr "Permalink (skrócony odnośnik) do konkretnego wpisu/strony"
+
+#: includes/shortcodes/permalink.php:24 includes/shortcodes/qrcode.php:64
+#: includes/shortcodes/tabs.php:106
+msgid "Link target"
+msgstr "Właściwość \"target\" linku"
+
+#: includes/shortcodes/permalink.php:23 includes/shortcodes/button.php:25
+msgid "Target"
+msgstr "Cel"
+
+#: includes/shortcodes/permalink.php:14
+msgid "Post or page ID"
+msgstr "ID wpisu albo strony"
+
+#: includes/shortcodes/permalink.php:7
+msgid "Permalink"
+msgstr "Permalink"
+
+#: includes/shortcodes/template.php:29
+msgid "please specify template name"
+msgstr "proszę, określ nazwę szablonu "
+
+#: includes/shortcodes/template.php:19
+msgid "Theme template"
+msgstr "Szablon motywu"
+
+#: includes/shortcodes/template.php:14
+msgid "Template name"
+msgstr "Nazwa szablonu"
+
+#: includes/shortcodes/posts.php:15 includes/shortcodes/template.php:8
+msgid "Template"
+msgstr "Szablon"
+
+#: includes/shortcodes/dummy-text.php:51
+msgid "Text placeholder"
+msgstr "Zastępstwo dla tekstu"
+
+#: includes/shortcodes/dummy-text.php:36
+msgid "Generated text will be cached. Be careful with this option. If you disable it and insert many dummy_text shortcodes the page load time will be highly increased"
+msgstr "Wygenerowany tekst zostanie umieszczony w cache. Używaj rozważnie tej opcji. Jeśli ją wyłączysz, i jednocześnie użyjesz na stronie wielokrotnie generatora tekstu, czas jej ładowania może bardzo wzrosnąć. "
+
+#: includes/shortcodes/dummy-text.php:35
+msgid "Cache"
+msgstr "Cache"
+
+#: includes/shortcodes/dummy-text.php:30
+msgid "How many items (paragraphs or words) to generate. Minimum words amount is 5"
+msgstr "Ile elementów (akapitów, czy słów) na zostać wygenerowane? Minimalna ilość słów wynosi 5"
+
+#: includes/shortcodes/dummy-text.php:29
+msgid "Amount"
+msgstr "Ilość"
+
+#: includes/shortcodes/dummy-text.php:21
+msgid "What to generate"
+msgstr "Co ma być generowane"
+
+#: includes/shortcodes/dummy-text.php:20
+msgid "What"
+msgstr "Co"
+
+#: includes/shortcodes/dummy-text.php:17
+msgid "Bytes"
+msgstr "Bajty"
+
+#: includes/shortcodes/dummy-text.php:16
+msgid "Words"
+msgstr "Słowa"
+
+#: includes/shortcodes/dummy-text.php:15
+msgid "Paragraphs"
+msgstr "Akapity"
+
+#: includes/shortcodes/dummy-text.php:8
+msgid "Dummy text"
+msgstr "Generator tekstu"
+
+#: includes/shortcodes/dropcap.php:38
+msgid "D"
+msgstr "Ł"
+
+#: includes/shortcodes/dropcap.php:29
+msgid "Choose dropcap size"
+msgstr "Wybierz rozmiar inicjału"
+
+#: includes/shortcodes/dropcap.php:20
+msgid "Dropcap style preset"
+msgstr "Ustawienie stylu inicjału"
+
+#: includes/shortcodes/dropcap.php:15 includes/shortcodes/button.php:32
+msgid "Flat"
+msgstr "Płaski"
+
+#: includes/shortcodes/dropcap.php:7 includes/shortcodes/dropcap.php:39
+msgid "Dropcap"
+msgstr "Inicjał"
+
+#: includes/shortcodes/column.php:47
+msgid "Did you know that you need to wrap columns with [row] shortcode?"
+msgstr "Czy wiesz, że musisz obudować kolumny shortcode [row]?"
+
+#: includes/shortcodes/column.php:46
+msgid "Flexible and responsive columns"
+msgstr "Konfigurowalne i responsywne kolumny"
+
+#: includes/shortcodes/column.php:45
+msgid "Column content"
+msgstr "Treść kolumny"
+
+#: includes/shortcodes/column.php:36
+msgid "Is this column centered on the page"
+msgstr "Czy, ta kolumna ma zostać wyśrodkowana na stronie?"
+
+#: includes/shortcodes/column.php:35 includes/shortcodes/button.php:77
+msgid "Centered"
+msgstr "Wyśrodkowanie"
+
+#: includes/shortcodes/column.php:30
+msgid "Select column width. This width will be calculated depend page width"
+msgstr "Wybierz szerokość kolumny. Będzie ona obliczana na podstawie szerokości całej strony"
+
+#: includes/shortcodes/dropcap.php:28 includes/shortcodes/qrcode.php:28
+#: includes/shortcodes/column.php:29 includes/shortcodes/divider.php:60
+#: includes/shortcodes/button.php:65 includes/shortcodes/heading.php:26
+msgid "Size"
+msgstr "Rozmiar"
+
+#: includes/shortcodes/column.php:26
+msgid "Five sixth"
+msgstr "Pięć szóstych"
+
+#: includes/shortcodes/column.php:25
+msgid "One sixth"
+msgstr "Jedna szósta"
+
+#: includes/shortcodes/column.php:24
+msgid "Four fifth"
+msgstr "Cztery piąte"
+
+#: includes/shortcodes/column.php:23
+msgid "Three fifth"
+msgstr "Trzy piąte"
+
+#: includes/shortcodes/column.php:22
+msgid "Two fifth"
+msgstr "Dwie piąte"
+
+#: includes/shortcodes/column.php:21
+msgid "One fifth"
+msgstr "Jedna piąta"
+
+#: includes/shortcodes/column.php:20
+msgid "Three fourth"
+msgstr "Trzy czwarte"
+
+#: includes/shortcodes/column.php:19
+msgid "One fourth"
+msgstr "Jedna czwarta"
+
+#: includes/shortcodes/column.php:18
+msgid "Two third"
+msgstr "Dwie trzecie"
+
+#: includes/shortcodes/column.php:17
+msgid "One third"
+msgstr "Jedna trzecia"
+
+#: includes/shortcodes/column.php:16
+msgid "One half"
+msgstr "Połowa"
+
+#: includes/shortcodes/column.php:15
+msgid "Full width"
+msgstr "Cała szerokość"
+
+#: includes/shortcodes/column.php:7
+msgid "Column"
+msgstr "Kolumna"
+
+#: includes/shortcodes/private.php:18
+msgid "Private note text"
+msgstr "Treść prywatnej notatki"
+
+#: includes/shortcodes/private.php:7
+msgid "Private"
+msgstr "Prywatne"
+
+#: includes/shortcodes/box.php:76
+msgid "This is box title"
+msgstr "To jest tytuł pola"
+
+#: includes/shortcodes/box.php:67
+msgid "Colored box with caption"
+msgstr "Kolorowe pole z nagłówkiem"
+
+#: includes/shortcodes/box.php:66
+msgid "Box content"
+msgstr "Zawartość pola"
+
+#: includes/shortcodes/box.php:52
+msgid "Box corners radius"
+msgstr "Promień narożników pola"
+
+#: includes/shortcodes/box.php:43
+msgid "Color for the box title text"
+msgstr "Kolor tekstu w tytule tego pola"
+
+#: includes/shortcodes/box.php:42
+msgid "Title text color"
+msgstr "Kolor tekstu tytułowego"
+
+#: includes/shortcodes/box.php:36
+msgid "Color for the box title and borders"
+msgstr "Kolor tytułu i obramowania pola"
+
+#: inc/core/generator-views.php:124 includes/shortcodes/box.php:35
+msgid "Color"
+msgstr "Kolor"
+
+#: includes/shortcodes/box.php:29
+msgid "Box style preset"
+msgstr "Ustawienia wyglądu pola"
+
+#: includes/shortcodes/box.php:25 includes/shortcodes/button.php:37
+msgid "Noise"
+msgstr "Szum"
+
+#: includes/shortcodes/box.php:24 includes/shortcodes/button.php:36
+msgid "Bubbles"
+msgstr "Bąble"
+
+#: includes/shortcodes/box.php:23 includes/shortcodes/button.php:35
+msgid "Glass"
+msgstr "Szkło"
+
+#: includes/shortcodes/box.php:22 includes/shortcodes/button.php:34
+msgid "Soft"
+msgstr "Delikatny"
+
+#: includes/shortcodes/box.php:16
+msgid "Text for the box title"
+msgstr "Treść tytułu pola"
+
+#: includes/shortcodes/box.php:14
+msgid "Box title"
+msgstr "Tytuł pola"
+
+#: includes/shortcodes/box.php:8 includes/config/groups.php:8
+msgid "Box"
+msgstr "Pole"
+
+#: includes/shortcodes/screenr.php:9
+msgid "Screenr"
+msgstr "Screenr"
+
+#: includes/shortcodes/siblings.php:24
+msgid "List of cureent page siblings"
+msgstr "Lista rodzeństwa aktualnej strony"
+
+#: includes/shortcodes/siblings.php:15
+msgid "Max depth level"
+msgstr "Maksymalna głębokość"
+
+#: includes/shortcodes/siblings.php:7
+msgid "Siblings"
+msgstr "Rodzeństwo"
+
+#: includes/shortcodes/scheduler.php:45
+msgid "By default, the content of this shortcode will be visible all the time. By using fields below, you can add some limitations. For example, if you type 1-5 in the Days of the week field, content will be only shown from Monday to Friday. Using the same principles, you can limit content visibility from years to seconds."
+msgstr "Domyślnie treść tego shortcode będzie widoczna cały czas. Używając poniższych pól, wprowadzisz pewne ograniczenia. Przykładowo, jeśli wpiszesz 1-5 w pole dni tygodnia - treść będzie widoczna jedynie od poniedziałku, do piątku. Stosując te same zasady, możesz ograniczyć wyświetlanie treści do konkretnych lat, bądź sekund."
+
+#: includes/shortcodes/scheduler.php:45
+msgid "Please pay special attention to the descriptions, which are located below each text field. It will save you a lot of time"
+msgstr "Zwróć szczególną uwagę na opisy, znajdujące się pod każdym z pól tekstowych. Pozwoli Ci to oszczędzić dużo czasu"
+
+#: includes/shortcodes/scheduler.php:45
+msgid "This shortcode allows you to show content only at the specified time."
+msgstr "Ten shortcode pozwala wyświetlać treść, wyłącznie w określonym przedziale czasu"
+
+#: includes/shortcodes/scheduler.php:44
+msgid "Allows to show the content only at the specified time period"
+msgstr "Pozwala wyświetlać treść, wyłącznie w określonym przedziale czasu"
+
+#: includes/shortcodes/scheduler.php:43
+msgid "Scheduled content"
+msgstr "Terminarz treści "
+
+#: includes/shortcodes/scheduler.php:40
+msgid "In this field you can type the text which will be shown if content is not visible at the current moment"
+msgstr "W to pole wpisz tekst, który będzie widoczny, gdy treść będzie niedostępna "
+
+#: includes/shortcodes/scheduler.php:39
+msgid "Alternative text"
+msgstr "Tekst alternatywny"
+
+#: includes/shortcodes/scheduler.php:34
+msgid "Years"
+msgstr "Lata"
+
+#: includes/shortcodes/scheduler.php:29
+msgid "Months"
+msgstr "Miesiące"
+
+#: includes/shortcodes/scheduler.php:24
+msgid "Days of the month"
+msgstr "Dni miesiąca"
+
+#: includes/shortcodes/scheduler.php:19
+msgid "Days of the week"
+msgstr "Dni tygodnia"
+
+#: includes/shortcodes/scheduler.php:15 includes/shortcodes/scheduler.php:20
+#: includes/shortcodes/scheduler.php:25 includes/shortcodes/scheduler.php:30
+#: includes/shortcodes/scheduler.php:35
+msgid "Examples (click to set)"
+msgstr "Przykłady (kliknij, aby je zastosować)"
+
+#: includes/shortcodes/scheduler.php:14
+msgid "Time"
+msgstr "Czas"
+
+#: includes/shortcodes/scheduler.php:8
+msgid "Scheduler"
+msgstr "Terminarz"
+
+#: includes/shortcodes/dropcap.php:16 includes/shortcodes/image-carousel.php:50
+msgid "Light"
+msgstr "Jasny"
+
+#: inc/core/generator-views.php:148 includes/shortcodes/posts.php:56
+#: includes/shortcodes/image-carousel.php:21
+msgid "Taxonomy"
+msgstr "Taksonomia"
+
+#: inc/core/generator-views.php:146 includes/shortcodes/image-carousel.php:18
+msgid "Media library"
+msgstr "Biblioteka mediów"
+
+#: includes/shortcodes/meta.php:60
+msgid "please specify meta key name"
+msgstr "proszę, wprowadź nazwę meta key"
+
+#: includes/shortcodes/meta.php:58
+msgid "post ID is incorrect"
+msgstr "ID wpisu jest niepoprawy"
+
+#: includes/shortcodes/meta.php:42
+msgid "Post meta"
+msgstr "Wpis w oparciu o metadane"
+
+#: includes/shortcodes/meta.php:34
+msgid "You can specify custom post ID. Leave this field empty to use an ID of the current post. Current post ID may not work in Live Preview mode"
+msgstr "Możesz podać dowolny nr ID wpisu. Jeśli chcesz użyć ID aktualnego wpisu, pozostaw to pole puste. ID aktualnego wpisu, może nie działać w polu podglądu na żywo."
+
+#: includes/shortcodes/meta.php:14
+msgid "Meta key name"
+msgstr "Nazwa klucza metadanych"
+
+#: includes/shortcodes/meta.php:13
+msgid "Key"
+msgstr "Key (klucz)"
+
+#: includes/shortcodes/menu.php:43
+msgid "This menu doesn't exists, or has no elements"
+msgstr "To menu, nie istnieje albo nie zawiera żadnych elementów"
+
+#: includes/shortcodes/menu.php:23
+msgid "Custom menu by name"
+msgstr "Nazwa dla własnego menu"
+
+#: includes/shortcodes/menu.php:14
+msgid "Custom menu name. Ex: Main menu"
+msgstr "Własna nazwa menu, np. Menu główne"
+
+#: includes/shortcodes/menu.php:14
+msgid "Menu name"
+msgstr "Nazwa menu"
+
+#: includes/shortcodes/menu.php:7
+msgid "Menu"
+msgstr "Menu"
+
+#: includes/shortcodes/dummy-image.php:58
+msgid "Image placeholder with random image"
+msgstr "Losowo generowane obrazy w miejscu przyszłej grafiki"
+
+#: includes/shortcodes/dummy-image.php:49
+msgid "Select the theme for this image"
+msgstr "Wybierz motyw dla tego obrazu"
+
+#: includes/shortcodes/dummy-image.php:45
+msgid "Transport"
+msgstr "Transport"
+
+#: includes/shortcodes/dummy-image.php:44
+msgid "Technics"
+msgstr "Technologie"
+
+#: includes/shortcodes/dummy-image.php:43
+msgid "Sports"
+msgstr "Sport"
+
+#: includes/shortcodes/dummy-image.php:42
+msgid "Nature"
+msgstr "Natura"
+
+#: includes/shortcodes/dummy-image.php:41
+msgid "People"
+msgstr "Ludzie"
+
+#: includes/shortcodes/dummy-image.php:40
+msgid "Fashion"
+msgstr "Moda"
+
+#: includes/shortcodes/dummy-image.php:39
+msgid "Night life"
+msgstr "Życie nocne"
+
+#: includes/shortcodes/dummy-image.php:38
+msgid "Food"
+msgstr "Jedzenie"
+
+#: includes/shortcodes/dummy-image.php:37
+msgid "City"
+msgstr "Miasto"
+
+#: includes/shortcodes/dummy-image.php:36
+msgid "Cats"
+msgstr "Koty"
+
+#: includes/shortcodes/dummy-image.php:35
+msgid "Business"
+msgstr "Firma"
+
+#: includes/shortcodes/dummy-image.php:34
+msgid "Animals"
+msgstr "Zwierzęta"
+
+#: includes/shortcodes/dummy-image.php:33
+msgid "Abstract"
+msgstr "Abstrakcja"
+
+#: includes/shortcodes/dummy-image.php:32 includes/shortcodes/posts.php:176
+msgid "Any"
+msgstr "Dowolny"
+
+#: includes/shortcodes/dummy-image.php:27
+msgid "Image height"
+msgstr "Wysokość obrazu"
+
+#: includes/shortcodes/dummy-image.php:18
+msgid "Image width"
+msgstr "Szerokość obrazu"
+
+#: includes/shortcodes/dummy-image.php:7 includes/shortcodes/dummy-image.php:71
+msgid "Dummy image"
+msgstr "Generator obrazów"
+
+#: includes/shortcodes/service.php:47
+msgid "Service box with title"
+msgstr "Pole usługi z tytułem"
+
+#: includes/shortcodes/service.php:46
+msgid "Service description"
+msgstr "Opis usługi"
+
+#: includes/shortcodes/service.php:37
+msgid "Size of the uploaded icon in pixels"
+msgstr "Rozmiar przesłanej ikony w pikselach"
+
+#: includes/shortcodes/service.php:36
+msgid "Icon size"
+msgstr "Rozmiar ikony"
+
+#: includes/shortcodes/service.php:22
+msgid "You can upload custom icon for this box"
+msgstr "Możesz dodać własną ikonę do tego pola"
+
+#: includes/shortcodes/service.php:16
+msgid "Service name"
+msgstr "Nazwa usługi"
+
+#: includes/shortcodes/service.php:14 includes/shortcodes/service.php:56
+msgid "Service title"
+msgstr "Tytuł usługi"
+
+#: includes/shortcodes/service.php:8
+msgid "Service"
+msgstr "Usługa"
+
+#: includes/shortcodes/youtube-advanced.php:139
+msgid "YouTube video player with advanced settings"
+msgstr "Odtwarzacz filmów YouTube z zaawansowanymi ustawieniami"
+
+#: includes/shortcodes/youtube-advanced.php:117
+msgid "WMode"
+msgstr "WMode"
+
+#: includes/shortcodes/youtube-advanced.php:113
+msgid "This parameter indicates whether the embedded player will display player controls (like a play button or volume control) within a dark or light control bar"
+msgstr "Parametr ten określa, czy wbudowany odtwarzacz będzie wyświetlał przyciski sterowania (np: odtwarzanie, czy głośność) na ciemnym, bądź jasnym motywie paska."
+
+#: includes/shortcodes/dummy-image.php:48
+#: includes/shortcodes/youtube-advanced.php:112
+msgid "Theme"
+msgstr "Motyw"
+
+#: includes/shortcodes/youtube-advanced.php:109
+msgid "Light theme"
+msgstr "Jasny motyw"
+
+#: includes/shortcodes/youtube-advanced.php:108
+msgid "Dark theme"
+msgstr "Ciemny motyw"
+
+#: includes/shortcodes/youtube-advanced.php:103
+msgid "This parameter lets you use a YouTube player that does not show a YouTube logo. Set the parameter value to YES to prevent the YouTube logo from displaying in the control bar. Note that a small YouTube text label will still display in the upper-right corner of a paused video when the user's mouse pointer hovers over the player"
+msgstr "Parametr ten pozwala na wykorzystanie odtwarzacza YouTube'a, bez ich loga. Ustaw parametr na Tak, aby powstrzymać wyświetlanie loga YouTube'a w pasku sterowania. Zauważ jednak, że w prawym górnym rogu nadal będzie wyświetlana mała etykieta z napisem YouTube - w momencie gdy film będzie miał włączoną pauzę, a oglądający przesunie myszką nad odtwarzaczem."
+
+#: includes/shortcodes/youtube-advanced.php:97
+msgid "Setting this parameter to NO prevents the fullscreen button from displaying"
+msgstr "Ustawienie tego parametru na Nie, zapobiega wyświetlaniu przycisku odtwarzania pełnoekranowego"
+
+#: includes/shortcodes/youtube-advanced.php:96
+msgid "Show full-screen button"
+msgstr "Pokaż przycisk odtwarzania pełnoekranowego"
+
+#: includes/shortcodes/youtube-advanced.php:85
+msgid "Setting of YES will cause the player to play the initial video again and again"
+msgstr "Ustawienie na Tak, spowoduje nieskończone zapętlenie odtwarzania pierwszego wideo "
+
+#: includes/shortcodes/youtube-advanced.php:67
+msgid "This parameter indicates whether the video controls will automatically hide after a video begins playing"
+msgstr "Ten parametr określa, czy przyciski sterowania będą automatycznie ukrywane, po rozpoczęciu odtwarzania "
+
+#: includes/shortcodes/youtube-advanced.php:66
+msgid "Autohide"
+msgstr "Autoukrywanie"
+
+#: includes/shortcodes/youtube-advanced.php:63
+msgid "2 - Hide progress bar on mouse out"
+msgstr "2 - Ukryj pasek postępu po wyjechaniu myszą poza odtwarzacz"
+
+#: includes/shortcodes/youtube-advanced.php:62
+msgid "1 - Hide all controls on mouse out"
+msgstr "1 - Ukryj wszystkie przyciski po wyjechaniu myszą poza odtwarzacz"
+
+#: includes/shortcodes/youtube-advanced.php:61
+msgid "0 - Do not hide controls"
+msgstr "0 - Nie ukrywaj przycisków sterowania"
+
+#: includes/shortcodes/youtube-advanced.php:56
+msgid "This parameter indicates whether the video player controls will display"
+msgstr "Ten parametr określa, czy odtwarzacz wideo będzie wyświetlał przyciski sterowania "
+
+#: includes/shortcodes/youtube-advanced.php:52
+msgid "2 - Show controls when playback is started"
+msgstr "2 - Pokaż przyciski sterowania, gdy rozpocznie się odtwarzanie"
+
+#: includes/shortcodes/youtube-advanced.php:51
+msgid "1 - Show controls"
+msgstr "1 - Pokaż przyciski sterowania"
+
+#: includes/shortcodes/youtube-advanced.php:50
+msgid "0 - Hide controls"
+msgstr "0 - Ukryj przyciski sterowania"
+
+#: includes/shortcodes/youtube-advanced.php:21
+msgid "Value is a comma-separated list of video IDs to play. If you specify a value, the first video that plays will be the VIDEO_ID specified in the URL path, and the videos specified in the playlist parameter will play thereafter"
+msgstr "Wartością powinny być oddzielone przecinkami ID-ki filmów. Podanie wartości spowoduje, że najpierw będzie odtwarzany film z VIDEO_ID określonym w adresie URL, a później nagrania wymienione w polu \"Lista odtwarzania\"."
+
+#: includes/shortcodes/youtube-advanced.php:20
+msgid "Playlist"
+msgstr "Lista odtwarzania"
+
+#: includes/shortcodes/youtube.php:65
+msgid "YouTube video"
+msgstr "Filmy z YouTube'a"
+
+#: includes/shortcodes/youtube.php:15
+#: includes/shortcodes/youtube-advanced.php:16
+msgid "Url of YouTube page with video. Ex: http://youtube.com/watch?v=XXXXXX"
+msgstr "Url strony na YouTube z filmem. Np: http://youtube.com/watch?v=XXXXXX"
+
+#: includes/shortcodes/youtube.php:8
+msgid "YouTube"
+msgstr "YouTube"
+
+#: includes/shortcodes/list.php:41
+msgid "Styled unordered list"
+msgstr "Wygląd listy nieuporządkowanej"
+
+#: includes/shortcodes/list.php:40
+msgid ""
+"<ul>\n"
+"<li>List item</li>\n"
+"<li>List item</li>\n"
+"<li>List item</li>\n"
+"</ul>"
+msgstr ""
+"<ul>\n"
+"<li>Element listy</li>\n"
+"<li>Element listy</li>\n"
+"<li>Element listy</li>\n"
+"</ul>"
+
+#: includes/shortcodes/service.php:28 includes/shortcodes/button.php:104
+#: includes/shortcodes/list.php:22
+msgid "This color will be applied to the selected icon. Does not works with uploaded icons"
+msgstr "Ten kolor zostanie zastosowany do ikony z przybornika. Opcja nie działa na ikony załadowane samodzielnie "
+
+#: includes/shortcodes/service.php:27 includes/shortcodes/button.php:103
+#: includes/shortcodes/list.php:21
+msgid "Icon color"
+msgstr "Kolor ikony"
+
+#: includes/shortcodes/list.php:16
+msgid "You can upload custom icon for this list or pick a built-in icon"
+msgstr "Możesz załadować własną ikonę dla tej listy, albo wybrać ją spośród ikon wbudowanych"
+
+#: includes/shortcodes/list.php:8
+msgid "List"
+msgstr "Lista"
+
+#: includes/shortcodes/lightbox-content.php:105
+msgid "please specify correct ID for this block. You should use same ID as in the Content source field (when inserting lightbox shortcode)"
+msgstr "proszę wprowadź właściwe ID dla tego bloku. Powinieneś użyć tego samego ID, co w polu Źródło treści (przy wstawianiu shortcode dla Wyskakującego okienka)"
+
+#: includes/shortcodes/lightbox-content.php:84
+msgid "Inline content for lightbox"
+msgstr "Zawartość inline dla wyskakującego okienka"
+
+#: includes/shortcodes/lightbox-content.php:83
+msgid "Inline content"
+msgstr "Zawartość inline"
+
+#: includes/shortcodes/lightbox-content.php:74
+msgid "Adjust the shadow for content box"
+msgstr "Dostosuj cień, dla zawartości pola"
+
+#: includes/shortcodes/lightbox-content.php:62
+#: includes/shortcodes/lightbox-content.php:68
+msgid "Pick a text color"
+msgstr "Wybierz kolor tekstu"
+
+#: includes/shortcodes/qrcode.php:77
+#: includes/shortcodes/lightbox-content.php:56
+msgid "Pick a background color"
+msgstr "Wybierz kolor tła"
+
+#: includes/shortcodes/lightbox-content.php:50
+msgid "Select the text alignment"
+msgstr "Wybierz wyrównanie tekstu"
+
+#: includes/shortcodes/lightbox-content.php:49
+msgid "Text alignment"
+msgstr "Wyrównanie tekstu"
+
+#: includes/shortcodes/lightbox-content.php:39
+msgid "Adjust the padding for inline content (in pixels)"
+msgstr "Dostosuj padding (ang. wypełnienie) dla zawartości inline (w pikselach)"
+
+#: includes/shortcodes/lightbox-content.php:38
+msgid "Padding"
+msgstr "Wypełnienie"
+
+#: includes/shortcodes/lightbox-content.php:30
+msgid "Adjust the margin for inline content (in pixels)"
+msgstr "Dostosuj margines dla zawartości inline (w pikselach)"
+
+#: includes/shortcodes/qrcode.php:37
+#: includes/shortcodes/lightbox-content.php:29
+#: includes/shortcodes/divider.php:69 includes/shortcodes/heading.php:46
+msgid "Margin"
+msgstr "Margines"
+
+#: includes/shortcodes/lightbox-content.php:21
+msgid "Adjust the width for inline content (in pixels or percents). %s Example values: %s, %s, %s"
+msgstr "Dopasuj szerokość dla treści inline (w pikselach lub procentach). %s Przykładowa wartość: %s, %s, %s"
+
+#: includes/shortcodes/lightbox-content.php:16
+msgid "Enter here the ID from Content source field. %s Example value: %s"
+msgstr "Podaj tu ID z pola Źródło treści. %s Przykładowa wartość: %s"
+
+#: includes/shortcodes/permalink.php:13
+#: includes/shortcodes/lightbox-content.php:15 includes/shortcodes/user.php:21
+msgid "ID"
+msgstr "ID"
+
+#: includes/shortcodes/lightbox-content.php:7
+msgid "Lightbox content"
+msgstr "Zawartość wyskakującego okienka"
+
+#: includes/shortcodes/video.php:72
+msgid "Custom video player"
+msgstr "Własny odtwarzacz wideo"
+
+#: includes/shortcodes/audio.php:33 includes/shortcodes/video.php:63
+msgid "Repeat when playback is ended"
+msgstr "Powtarzaj po zakończeniu odtwarzania. "
+
+#: includes/shortcodes/youtube-advanced.php:84 includes/shortcodes/audio.php:32
+#: includes/shortcodes/video.php:62
+msgid "Loop"
+msgstr "Pętla"
+
+#: includes/shortcodes/audio.php:27 includes/shortcodes/video.php:57
+msgid "Play file automatically when page is loaded"
+msgstr "Odtwarzaj automatycznie nagranie, z chwilą załadowania strony"
+
+#: includes/shortcodes/video.php:51
+msgid "Show player controls (play/pause etc.) or not"
+msgstr "Pokaż, bądź ukryj przyciski sterowania (odtwarzanie/pauza itp.)"
+
+#: includes/shortcodes/youtube-advanced.php:55 includes/shortcodes/video.php:50
+msgid "Controls"
+msgstr "Sterowanie"
+
+#: includes/shortcodes/video.php:27
+msgid "Player title"
+msgstr "Tytuł odtwarzacza"
+
+#: includes/shortcodes/video.php:21
+msgid "Url to poster image, that will be shown before playback"
+msgstr "Url do obrazu z posterem, który zostanie wyświetlony przed odtworzeniem filmu"
+
+#: includes/shortcodes/video.php:20
+msgid "Poster"
+msgstr "Poster"
+
+#: includes/shortcodes/video.php:15
+msgid "Url to mp4/flv video-file"
+msgstr "Url do filmu w formacie mp4, albo flv"
+
+#: includes/shortcodes/audio.php:14 includes/shortcodes/video.php:14
+msgid "File"
+msgstr "Plik"
+
+#: includes/shortcodes/video.php:7
+msgid "Video"
+msgstr "Wideo"
+
+#: includes/shortcodes/custom-gallery.php:87
+msgid "Customizable image gallery"
+msgstr "Konfigurowalna galeria obrazów"
+
+#: includes/shortcodes/custom-gallery.php:78
+msgid "Title display mode"
+msgstr "Sposób wyświetlania tytułu"
+
+#: includes/shortcodes/custom-gallery.php:74
+msgid "Always"
+msgstr "Zawsze"
+
+#: includes/shortcodes/custom-gallery.php:73
+msgid "On mouse over"
+msgstr "Przy najechaniu myszą"
+
+#: includes/shortcodes/custom-gallery.php:72
+msgid "Never"
+msgstr "Nigdy"
+
+#: includes/shortcodes/custom-gallery.php:67
+msgid "Single item height (in pixels)"
+msgstr "Wysokość pojedynczego elementu (w pikselach)"
+
+#: includes/shortcodes/custom-gallery.php:58
+msgid "Single item width (in pixels)"
+msgstr "Szerokość pojedynczego elementu (w pikselach)"
+
+#: includes/shortcodes/custom-gallery.php:8 includes/config/groups.php:10
+msgid "Gallery"
+msgstr "Galeria"
+
+#: includes/shortcodes/spoiler.php:67
+msgid "Spoiler with hidden content"
+msgstr "Spojler ze schowaną treścią"
+
+#: includes/shortcodes/spoiler.php:66
+msgid "Hidden content"
+msgstr "Schowana treść"
+
+#: includes/shortcodes/spoiler.php:56 includes/shortcodes/tabs.php:91
+msgid "Anchor"
+msgstr "Kotwica"
+
+#: includes/shortcodes/spoiler.php:52
+msgid "Icons for spoiler"
+msgstr "Ikona przy spojlerze"
+
+#: includes/shortcodes/spoiler.php:48
+msgid "Folder 2"
+msgstr "Folder 2"
+
+#: includes/shortcodes/spoiler.php:47
+msgid "Folder 1"
+msgstr "Folder 1"
+
+#: includes/shortcodes/spoiler.php:46
+msgid "Caret square"
+msgstr "Daszek (^) w kwadracie"
+
+#: includes/shortcodes/spoiler.php:45
+msgid "Caret"
+msgstr "Daszek (^)"
+
+#: includes/shortcodes/spoiler.php:44
+msgid "Chevron circle"
+msgstr "Szewron w kole"
+
+#: includes/shortcodes/spoiler.php:43
+msgid "Chevron"
+msgstr "Szewron"
+
+#: includes/shortcodes/spoiler.php:42
+msgid "Arrow circle 2"
+msgstr "Strzałka w kole 2"
+
+#: includes/shortcodes/spoiler.php:41
+msgid "Arrow circle 1"
+msgstr "Strzałka w kole 1"
+
+#: includes/shortcodes/spoiler.php:40
+msgid "Arrow"
+msgstr "Strzałka"
+
+#: includes/shortcodes/spoiler.php:39
+msgid "Plus square 2"
+msgstr "Plus w kwadracie 2"
+
+#: includes/shortcodes/spoiler.php:38
+msgid "Plus square 1"
+msgstr "Plus w kwadracie 1"
+
+#: includes/shortcodes/spoiler.php:37
+msgid "Plus circle"
+msgstr "Plus w kole"
+
+#: includes/shortcodes/spoiler.php:36
+msgid "Plus"
+msgstr "Plus"
+
+#: includes/shortcodes/spoiler.php:31
+msgid "Choose style for this spoiler"
+msgstr "Wybierz styl tego spojlera"
+
+#: includes/shortcodes/dropcap.php:17 includes/shortcodes/spoiler.php:27
+msgid "Simple"
+msgstr "Prosty"
+
+#: includes/shortcodes/spoiler.php:26
+msgid "Fancy"
+msgstr "Fantazyjny"
+
+#: includes/shortcodes/spoiler.php:20
+msgid "Is spoiler content visible by default"
+msgstr "Czy treść spojlera ma być domyślnie widoczna?"
+
+#: includes/shortcodes/spoiler.php:19
+msgid "Open"
+msgstr "Otwarty"
+
+#: includes/shortcodes/spoiler.php:14
+msgid "Text in spoiler title"
+msgstr "Tekst w tytule spojlera"
+
+#: includes/shortcodes/spoiler.php:12 includes/shortcodes/spoiler.php:78
+msgid "Spoiler title"
+msgstr "Tytuł spojlera"
+
+#: includes/shortcodes/spoiler.php:7
+msgid "Spoiler"
+msgstr "Spojler"
+
+#: includes/shortcodes/note.php:48
+msgid "Colored box"
+msgstr "Kolorowe pole"
+
+#: includes/shortcodes/note.php:47
+msgid "Note text"
+msgstr "Tekst notatki"
+
+#: includes/shortcodes/note.php:33
+msgid "Note corners radius"
+msgstr "Promień narożników notatki"
+
+#: includes/shortcodes/note.php:32 includes/shortcodes/box.php:51
+#: includes/shortcodes/button.php:91
+msgid "Radius"
+msgstr "Promień"
+
+#: includes/shortcodes/note.php:24
+msgid "Note text color"
+msgstr "Kolor tekstu notatki"
+
+#: includes/shortcodes/note.php:17
+msgid "Note background color"
+msgstr "Kolor tła notatki"
+
+#: includes/shortcodes/note.php:8
+msgid "Note"
+msgstr "Notatka"
+
+#: includes/shortcodes/quote.php:40
+msgid "Blockquote alternative"
+msgstr "Alternatywa dla blockquote"
+
+#: includes/shortcodes/quote.php:30
+msgid "Url of the quote author. Leave empty to disable link"
+msgstr "Url autora cytatu. Pozostawienie pustego pola, wyłączy linkowanie"
+
+#: includes/shortcodes/quote.php:29
+msgid "Cite url"
+msgstr "Adres URL cytowania"
+
+#: includes/shortcodes/quote.php:24
+msgid "Quote author name"
+msgstr "Autor cytatu"
+
+#: includes/shortcodes/quote.php:23
+msgid "Cite"
+msgstr "Cytowany"
+
+#: includes/shortcodes/quote.php:19
+msgid "Choose style for this quote"
+msgstr "Wybierz styl dla tego cytatu"
+
+#: includes/shortcodes/tooltip.php:28 includes/shortcodes/dropcap.php:20
+#: includes/shortcodes/quote.php:18 includes/shortcodes/box.php:28
+#: includes/shortcodes/spoiler.php:30 includes/shortcodes/divider.php:37
+#: includes/shortcodes/tabs.php:21 includes/shortcodes/button.php:42
+#: includes/shortcodes/heading.php:17
+msgid "Style"
+msgstr "Styl"
+
+#: includes/shortcodes/quote.php:8 includes/shortcodes/quote.php:39
+msgid "Quote"
+msgstr "Cytat"
+
+#: includes/shortcodes/spacer.php:27
+msgid "Empty space with adjustable height"
+msgstr "Pusta przestrzeń, dowolnej wysokości "
+
+#: includes/shortcodes/spacer.php:18
+msgid "Height of the spacer in pixels"
+msgstr "Wysokość rozpórki w pikselach"
+
+#: includes/shortcodes/spacer.php:7
+msgid "Spacer"
+msgstr "Rozpórka"
+
+#: includes/shortcodes/youtube.php:89 includes/shortcodes/youtube.php:99
+#: includes/shortcodes/youtube-advanced.php:174
+#: includes/shortcodes/youtube-advanced.php:184
+#: includes/shortcodes/vimeo.php:102 includes/shortcodes/vimeo.php:112
+#: includes/shortcodes/audio.php:59 includes/shortcodes/audio.php:71
+#: includes/shortcodes/screenr.php:24 includes/shortcodes/screenr.php:31
+#: includes/shortcodes/dailymotion.php:137
+#: includes/shortcodes/dailymotion.php:144 includes/shortcodes/video.php:92
+#: includes/shortcodes/video.php:100
+msgid "please specify correct url"
+msgstr "proszę, podaj poprawny url"
+
+#: includes/shortcodes/dailymotion.php:108
+msgid "Dailymotion video"
+msgstr "Film z Dailymotion"
+
+#: includes/shortcodes/youtube.php:54 includes/shortcodes/permalink.php:28
+#: includes/shortcodes/youtube-advanced.php:128
+#: includes/shortcodes/qrcode.php:19 includes/shortcodes/gmap.php:52
+#: includes/shortcodes/vimeo.php:60 includes/shortcodes/box.php:15
+#: includes/shortcodes/spoiler.php:13 includes/shortcodes/service.php:15
+#: includes/shortcodes/tabs.php:80 includes/shortcodes/dailymotion.php:97
+#: includes/shortcodes/video.php:26 includes/shortcodes/document.php:44
+msgid "Title"
+msgstr "Tytuł"
+
+#: includes/shortcodes/dailymotion.php:94
+msgid "Show videos info (title/author) on the start screen"
+msgstr "Pokaż informacje o filmie (tytuł/autor) na ekranie początkowym"
+
+#: includes/shortcodes/dailymotion.php:93
+msgid "Show video info"
+msgstr "Pokaż informacje o filmie"
+
+#: includes/shortcodes/dailymotion.php:88
+msgid "Show related videos at the end of the video"
+msgstr "Pokaż powiązane filmy po zakończeniu filmu"
+
+#: includes/shortcodes/dailymotion.php:87
+msgid "Show related videos"
+msgstr "Pokaż powiązane filmy"
+
+#: includes/shortcodes/dailymotion.php:82
+msgid "Determines the quality that must be played by default if available"
+msgstr "Określa w jakiej jakości ma być odtwarzane nagranie, jeśli będzie ona dostępna"
+
+#: includes/shortcodes/dailymotion.php:81
+msgid "Quality"
+msgstr "Jakość"
+
+#: includes/shortcodes/dailymotion.php:69
+msgid "Allows to hide or show the Dailymotion logo"
+msgstr "Pozwala ukryć, albo wyświetlić logo Dailymotion"
+
+#: includes/shortcodes/dailymotion.php:68
+msgid "Show logo"
+msgstr "Pokaż logo"
+
+#: includes/shortcodes/dailymotion.php:63
+msgid "HTML color of the controls elements' highlights"
+msgstr "Kolor HTML podświetlenia elementów sterujących"
+
+#: includes/shortcodes/dailymotion.php:62
+msgid "Highlight color"
+msgstr "Kolor podświetlenia"
+
+#: includes/shortcodes/dailymotion.php:57
+msgid "HTML color of the foreground of controls elements"
+msgstr "Kolor HTML pierwszego planu, elementów sterujących"
+
+#: includes/shortcodes/dailymotion.php:56
+msgid "Foreground color"
+msgstr "Kolor pierwszoplanowy"
+
+#: includes/shortcodes/dailymotion.php:51
+msgid "HTML color of the background of controls elements"
+msgstr "Kolor HTML tła, pod elementami sterującymi"
+
+#: includes/shortcodes/qrcode.php:76
+#: includes/shortcodes/lightbox-content.php:55
+#: includes/shortcodes/dailymotion.php:50
+msgid "Background color"
+msgstr "Kolor tła"
+
+#: includes/shortcodes/dailymotion.php:45
+msgid "Start the playback of the video automatically after the player load. May not work on some mobile OS versions"
+msgstr "Odtwarzaj automatycznie wideo z chwilą załadowania strony. Może nie działać na niektórych urządzeniach mobilnych."
+
+#: includes/shortcodes/youtube.php:39
+#: includes/shortcodes/youtube-advanced.php:45 includes/shortcodes/vimeo.php:39
+#: includes/shortcodes/dailymotion.php:39
+msgid "Ignore width and height parameters and make player responsive"
+msgstr "Ignoruj parametry szerokości i wysokości, aby odtwarzacz był responsywny  "
+
+#: includes/shortcodes/youtube.php:33
+#: includes/shortcodes/youtube-advanced.php:39 includes/shortcodes/vimeo.php:33
+#: includes/shortcodes/dailymotion.php:33 includes/shortcodes/video.php:45
+msgid "Player height"
+msgstr "Wysokość odtwarzacza"
+
+#: includes/shortcodes/youtube.php:24
+#: includes/shortcodes/youtube-advanced.php:30 includes/shortcodes/vimeo.php:24
+#: includes/shortcodes/dailymotion.php:24 includes/shortcodes/video.php:36
+msgid "Player width"
+msgstr "Szerokość odtwarzacza"
+
+#: includes/shortcodes/dailymotion.php:15
+msgid "Url of Dailymotion page with video"
+msgstr "Url do strony Dailymotion z filmem"
+
+#: includes/shortcodes/youtube.php:14
+#: includes/shortcodes/youtube-advanced.php:15 includes/shortcodes/vimeo.php:14
+#: includes/shortcodes/dailymotion.php:14 includes/shortcodes/document.php:16
+msgid "Url"
+msgstr "Url"
+
+#: includes/shortcodes/dailymotion.php:8
+msgid "Dailymotion"
+msgstr "Dailymotion"
+
+#: includes/shortcodes/subpages.php:30
+msgid "List of sub pages"
+msgstr "Lista podstron"
+
+#: includes/shortcodes/subpages.php:21
+msgid "ID of the parent page. Leave blank to use current page"
+msgstr "ID strony rodzica. Pozostaw puste, aby użyć do aktualnej strony"
+
+#: includes/shortcodes/subpages.php:20
+msgid "Parent ID"
+msgstr "ID rodzica "
+
+#: includes/shortcodes/subpages.php:15
+msgid "Max depth level of children pages"
+msgstr "Maksymalna głębokość stron-dzieci"
+
+#: includes/shortcodes/subpages.php:14 includes/shortcodes/siblings.php:14
+msgid "Depth"
+msgstr "Głębokosć"
+
+#: includes/shortcodes/subpages.php:7
+msgid "Sub pages"
+msgstr "Podstrony"
+
+#: includes/shortcodes/frame.php:29
+msgid "Styled image frame"
+msgstr "Wygląd ramki"
+
+#: includes/shortcodes/frame.php:24
+msgid "Class"
+msgstr "Klasa"
+
+#: includes/shortcodes/frame.php:20
+msgid "Frame alignment"
+msgstr "Wyrównanie ramki"
+
+#: includes/shortcodes/qrcode.php:49 includes/shortcodes/frame.php:19
+#: includes/shortcodes/pullquote.php:18 includes/shortcodes/heading.php:37
+msgid "Align"
+msgstr "Wyrównanie"
+
+#: includes/shortcodes/tooltip.php:37 includes/shortcodes/qrcode.php:46
+#: includes/shortcodes/expand.php:68 includes/shortcodes/image-carousel.php:89
+#: includes/shortcodes/lightbox-content.php:46 includes/shortcodes/frame.php:16
+#: includes/shortcodes/pullquote.php:15 includes/shortcodes/heading.php:34
+msgid "Right"
+msgstr "Prawa"
+
+#: includes/shortcodes/tooltip.php:36 includes/shortcodes/qrcode.php:44
+#: includes/shortcodes/expand.php:66 includes/shortcodes/image-carousel.php:88
+#: includes/shortcodes/lightbox-content.php:44 includes/shortcodes/frame.php:14
+#: includes/shortcodes/pullquote.php:14 includes/shortcodes/heading.php:32
+msgid "Left"
+msgstr "Lewa"
+
+#: includes/shortcodes/frame.php:7
+msgid "Frame"
+msgstr "Ramka"
+
+#: includes/shortcodes/accordion.php:24 includes/shortcodes/spoiler.php:68
+msgid "Did you know that you can wrap multiple spoilers with [accordion] shortcode to create accordion effect?"
+msgstr "Czy wiesz, że możesz obudować wiele spojlerów w shortcode [accordion] aby stworzyć efekt akordeonu?"
+
+#: includes/shortcodes/accordion.php:23
+msgid "Accordion with spoilers"
+msgstr "Akordeon ze spojlerami"
+
+#: includes/shortcodes/accordion.php:7
+msgid "Accordion"
+msgstr "Akordeon"
+
+#: includes/shortcodes/slider.php:209
+#: includes/shortcodes/image-carousel.php:236
+#: includes/shortcodes/carousel.php:236
+#: includes/shortcodes/custom-gallery.php:157
+msgid "images not found"
+msgstr "obrazów nie znaleziono"
+
+#: includes/shortcodes/slider.php:127
+msgid "Customizable image slider"
+msgstr "Konfigurowalny slider obrazów"
+
+#: includes/shortcodes/slider.php:118 includes/shortcodes/carousel.php:137
+msgid "Specify animation speed"
+msgstr "Ustal szybkość animacji"
+
+#: includes/shortcodes/slider.php:118 includes/shortcodes/carousel.php:137
+msgid "Speed"
+msgstr "Szybkość"
+
+#: includes/shortcodes/slider.php:110
+msgid "Choose interval between slide animations. Set to 0 to disable autoplay"
+msgstr "Ustal czas pomiędzy animacjami zmiany slajdów. Wybranie 0 powoduje wyłączenie auto-odtwarzania"
+
+#: includes/shortcodes/youtube.php:44 includes/shortcodes/slider.php:109
+#: includes/shortcodes/youtube-advanced.php:72
+#: includes/shortcodes/image-carousel.php:157 includes/shortcodes/vimeo.php:44
+#: includes/shortcodes/carousel.php:128 includes/shortcodes/audio.php:26
+#: includes/shortcodes/dailymotion.php:44 includes/shortcodes/video.php:56
+msgid "Autoplay"
+msgstr "Autoodtwarzanie"
+
+#: includes/shortcodes/slider.php:101
+msgid "Allow to change slides with mouse wheel"
+msgstr "Pozwól na zmianę slajdów, za pomocą kółka myszki"
+
+#: includes/shortcodes/slider.php:100 includes/shortcodes/carousel.php:119
+msgid "Mouse wheel control"
+msgstr "Kontrola kółkiem myszki"
+
+#: includes/shortcodes/slider.php:96 includes/shortcodes/carousel.php:115
+msgid "Show pagination"
+msgstr "Wyświetl paginację"
+
+#: includes/shortcodes/slider.php:95 includes/shortcodes/carousel.php:114
+msgid "Pagination"
+msgstr "Paginacja"
+
+#: includes/shortcodes/slider.php:90 includes/shortcodes/carousel.php:109
+msgid "Show left and right arrows"
+msgstr "Pokaż strzałki: lewą i prawą"
+
+#: includes/shortcodes/slider.php:90 includes/shortcodes/carousel.php:109
+msgid "Arrows"
+msgstr "Strzałki"
+
+#: includes/shortcodes/slider.php:85
+msgid "Is slider centered on the page"
+msgstr "Czy slider, ma być wyśrodkowany na stronie?"
+
+#: includes/shortcodes/slider.php:85 includes/shortcodes/qrcode.php:45
+#: includes/shortcodes/expand.php:67 includes/shortcodes/image-carousel.php:90
+#: includes/shortcodes/lightbox-content.php:45
+#: includes/shortcodes/carousel.php:104 includes/shortcodes/frame.php:15
+#: includes/shortcodes/heading.php:33
+msgid "Center"
+msgstr "Środek"
+
+#: includes/shortcodes/slider.php:80
+msgid "Display slide titles"
+msgstr "Wyświetla tytuły slajdów"
+
+#: includes/shortcodes/slider.php:80 includes/shortcodes/carousel.php:99
+#: includes/shortcodes/custom-gallery.php:77
+msgid "Show titles"
+msgstr "Pokaż tytuły"
+
+#: includes/shortcodes/slider.php:75
+msgid "Ignore width and height parameters and make slider responsive"
+msgstr "Ignoruj parametry szerokości i wysokości, aby slider był responsywny"
+
+#: includes/shortcodes/youtube.php:38 includes/shortcodes/slider.php:74
+#: includes/shortcodes/youtube-advanced.php:44 includes/shortcodes/gmap.php:33
+#: includes/shortcodes/vimeo.php:38 includes/shortcodes/csv-table.php:35
+#: includes/shortcodes/carousel.php:76 includes/shortcodes/table.php:17
+#: includes/shortcodes/dailymotion.php:38 includes/shortcodes/document.php:40
+msgid "Responsive"
+msgstr "Responsywne"
+
+#: includes/shortcodes/slider.php:69
+msgid "Slider height (in pixels)"
+msgstr "Wysokość slidera (w pikselach)"
+
+#: includes/shortcodes/dummy-image.php:26 includes/shortcodes/youtube.php:32
+#: includes/shortcodes/slider.php:69
+#: includes/shortcodes/youtube-advanced.php:38
+#: includes/shortcodes/spacer.php:17 includes/shortcodes/expand.php:27
+#: includes/shortcodes/gmap.php:27 includes/shortcodes/vimeo.php:32
+#: includes/shortcodes/carousel.php:70
+#: includes/shortcodes/custom-gallery.php:66
+#: includes/shortcodes/dailymotion.php:32 includes/shortcodes/video.php:44
+#: includes/shortcodes/document.php:34
+msgid "Height"
+msgstr "Wysokość"
+
+#: includes/shortcodes/slider.php:61
+msgid "Slider width (in pixels)"
+msgstr "Szerokość lidera (w pikselach)"
+
+#: includes/shortcodes/dummy-image.php:17 includes/shortcodes/youtube.php:23
+#: includes/shortcodes/slider.php:61
+#: includes/shortcodes/youtube-advanced.php:29 includes/shortcodes/gmap.php:18
+#: includes/shortcodes/vimeo.php:23 includes/shortcodes/lightbox-content.php:20
+#: includes/shortcodes/carousel.php:61 includes/shortcodes/audio.php:20
+#: includes/shortcodes/custom-gallery.php:57
+#: includes/shortcodes/dailymotion.php:23 includes/shortcodes/video.php:35
+#: includes/shortcodes/document.php:25
+msgid "Width"
+msgstr "Szerokość"
+
+#: includes/shortcodes/slider.php:53 includes/shortcodes/carousel.php:53
+#: includes/shortcodes/custom-gallery.php:49
+msgid "Open links in"
+msgstr "Otwórz linki w"
+
+#: includes/shortcodes/slider.php:52 includes/shortcodes/image-carousel.php:148
+#: includes/shortcodes/carousel.php:52 includes/shortcodes/feed.php:34
+#: includes/shortcodes/custom-gallery.php:48
+msgid "Links target"
+msgstr "Cel linków (target)"
+
+#: includes/shortcodes/slider.php:43 includes/shortcodes/carousel.php:43
+#: includes/shortcodes/custom-gallery.php:39
+msgid "Select which links will be used for images in this gallery"
+msgstr "Wybierz, jakiego rodzaju linki będą używane do obrazów w tej galerii"
+
+#: includes/shortcodes/slider.php:42 includes/shortcodes/carousel.php:42
+#: includes/shortcodes/custom-gallery.php:38
+msgid "Links"
+msgstr "Linki"
+
+#: includes/shortcodes/slider.php:39 includes/shortcodes/image-carousel.php:135
+#: includes/shortcodes/carousel.php:39
+#: includes/shortcodes/custom-gallery.php:35
+msgid "Post permalink"
+msgstr "Permalink wpisu"
+
+#: includes/shortcodes/slider.php:38 includes/shortcodes/image-carousel.php:134
+#: includes/shortcodes/carousel.php:38
+#: includes/shortcodes/custom-gallery.php:34
+msgid "Attachment page"
+msgstr "Strona załącznika"
+
+#: includes/shortcodes/slider.php:37 includes/shortcodes/carousel.php:37
+#: includes/shortcodes/custom-gallery.php:33
+msgid "Slide link (added in media editor)"
+msgstr "Link slajdu (dodany w edytorze mediów)"
+
+#: includes/shortcodes/slider.php:36 includes/shortcodes/lightbox.php:8
+#: includes/shortcodes/image-carousel.php:132
+#: includes/shortcodes/carousel.php:36
+#: includes/shortcodes/custom-gallery.php:32
+msgid "Lightbox"
+msgstr "Wyskakujące okienko"
+
+#: includes/shortcodes/slider.php:35 includes/shortcodes/image-carousel.php:131
+#: includes/shortcodes/carousel.php:35
+#: includes/shortcodes/custom-gallery.php:31
+msgid "Full-size image"
+msgstr "Obraz pełnowymiarowy"
+
+#: includes/shortcodes/slider.php:34 includes/shortcodes/posts.php:139
+#: includes/shortcodes/qrcode.php:43 includes/shortcodes/image-carousel.php:87
+#: includes/shortcodes/image-carousel.php:130
+#: includes/shortcodes/carousel.php:34
+#: includes/shortcodes/custom-gallery.php:30 includes/config/borders.php:6
+msgid "None"
+msgstr "Żaden"
+
+#: includes/shortcodes/slider.php:29 includes/shortcodes/carousel.php:29
+#: includes/shortcodes/custom-gallery.php:25
+msgid "Maximum number of image source posts (for recent posts, category and custom taxonomy)"
+msgstr "Maksymalna liczba wpisów źródłowych dla obrazów (dla ostatnich wpisów, kategorii i własnych taksonomii)"
+
+#: includes/shortcodes/slider.php:28 includes/shortcodes/image-carousel.php:32
+#: includes/shortcodes/carousel.php:28 includes/shortcodes/feed.php:24
+#: includes/shortcodes/custom-gallery.php:24
+msgid "Limit"
+msgstr "Limit"
+
+#: includes/shortcodes/slider.php:20 includes/shortcodes/carousel.php:20
+#: includes/shortcodes/custom-gallery.php:16
+msgid "Choose images source. You can use images from Media library or retrieve it from posts (thumbnails) posted under specified blog category. You can also pick any custom taxonomy"
+msgstr "Wybierz źródło obrazów. Możesz skorzystać z Biblioteki mediów, albo pobrać je z wpisów (miniaturki) zamieszczonych pod określoną kategorią na blogu. Możesz, także określić dowolną taksonomię.  "
+
+#: includes/shortcodes/slider.php:19 includes/shortcodes/carousel.php:19
+#: includes/shortcodes/custom-gallery.php:15
+msgid "Source"
+msgstr "Źródło"
+
+#: includes/shortcodes/slider.php:7
+msgid "Slider"
+msgstr "Slider"
+
+#: includes/shortcodes/highlight.php:31 includes/shortcodes/highlight.php:32
+msgid "Highlighted text"
+msgstr "Tekst do podświetlenia"
+
+#: includes/shortcodes/tooltip.php:99 includes/shortcodes/subpages.php:25
+#: includes/shortcodes/dummy-image.php:53 includes/shortcodes/dropcap.php:33
+#: includes/shortcodes/youtube.php:60 includes/shortcodes/note.php:37
+#: includes/shortcodes/slider.php:122 includes/shortcodes/permalink.php:38
+#: includes/shortcodes/youtube-advanced.php:134
+#: includes/shortcodes/lightbox.php:38 includes/shortcodes/spacer.php:22
+#: includes/shortcodes/qrcode.php:81 includes/shortcodes/expand.php:88
+#: includes/shortcodes/accordion.php:14 includes/shortcodes/members.php:35
+#: includes/shortcodes/quote.php:34 includes/shortcodes/gmap.php:58
+#: includes/shortcodes/row.php:15 includes/shortcodes/image-carousel.php:187
+#: includes/shortcodes/label.php:27 includes/shortcodes/guests.php:13
+#: includes/shortcodes/vimeo.php:71 includes/shortcodes/box.php:56
+#: includes/shortcodes/csv-table.php:52 includes/shortcodes/private.php:13
+#: includes/shortcodes/lightbox-content.php:78
+#: includes/shortcodes/carousel.php:141 includes/shortcodes/spoiler.php:61
+#: includes/shortcodes/dummy-text.php:46 includes/shortcodes/column.php:40
+#: includes/shortcodes/animate.php:44 includes/shortcodes/divider.php:74
+#: includes/shortcodes/service.php:41 includes/shortcodes/frame.php:25
+#: includes/shortcodes/table.php:34 includes/shortcodes/siblings.php:19
+#: includes/shortcodes/tabs.php:52 includes/shortcodes/tabs.php:111
+#: includes/shortcodes/audio.php:37 includes/shortcodes/feed.php:39
+#: includes/shortcodes/menu.php:18 includes/shortcodes/highlight.php:26
+#: includes/shortcodes/custom-gallery.php:82 includes/shortcodes/button.php:144
+#: includes/shortcodes/pullquote.php:22 includes/shortcodes/dailymotion.php:103
+#: includes/shortcodes/heading.php:56 includes/shortcodes/video.php:67
+#: includes/shortcodes/document.php:50 includes/shortcodes/list.php:35
+msgid "Extra CSS class"
+msgstr "Dodatkowa klasa CSS"
+
+#: includes/shortcodes/highlight.php:22
+msgid "Highlighted text color"
+msgstr "Kolor podświetlonego tekstu"
+
+#: includes/shortcodes/note.php:23 includes/shortcodes/expand.php:40
+#: includes/shortcodes/lightbox-content.php:61
+#: includes/shortcodes/lightbox-content.php:67
+#: includes/shortcodes/highlight.php:22 includes/shortcodes/button.php:56
+msgid "Text color"
+msgstr "Kolor tekstu"
+
+#: includes/shortcodes/highlight.php:16
+msgid "Highlighted text background color"
+msgstr "Kolor tła podświetlonego tekstu"
+
+#: includes/shortcodes/note.php:16 includes/shortcodes/highlight.php:15
+#: includes/shortcodes/button.php:49
+msgid "Background"
+msgstr "Tło"
+
+#: includes/shortcodes/highlight.php:7
+msgid "Highlight"
+msgstr "Podświetlenie"
+
+#: includes/shortcodes/meta.php:38 includes/shortcodes/user.php:56
+#: includes/shortcodes/post.php:70
+msgid "Filter"
+msgstr "Filtr"
+
+#: includes/shortcodes/meta.php:29 includes/shortcodes/user.php:47
+#: includes/shortcodes/post.php:55
+msgid "This content will be shown after the value"
+msgstr "Treść do wyświetlenia za danymi"
+
+#: includes/shortcodes/meta.php:28 includes/shortcodes/user.php:46
+#: includes/shortcodes/post.php:54
+msgid "After"
+msgstr "Za"
+
+#: includes/shortcodes/meta.php:24 includes/shortcodes/user.php:42
+#: includes/shortcodes/post.php:50
+msgid "This content will be shown before the value"
+msgstr "Treść do wyświetlenia przed danymi"
+
+#: includes/shortcodes/meta.php:23 includes/shortcodes/user.php:41
+#: includes/shortcodes/post.php:49
+msgid "Before"
+msgstr "Przed"
+
+#: includes/shortcodes/meta.php:19 includes/shortcodes/user.php:37
+#: includes/shortcodes/post.php:45
+msgid "This text will be shown if data is not found"
+msgstr "Tekst ten zostanie wyświetlony, przy braku danych"
+
+#: includes/shortcodes/tooltip.php:58 includes/shortcodes/dropcap.php:14
+#: includes/shortcodes/expand.php:53 includes/shortcodes/quote.php:15
+#: includes/shortcodes/image-carousel.php:38 includes/shortcodes/label.php:14
+#: includes/shortcodes/box.php:21 includes/shortcodes/meta.php:18
+#: includes/shortcodes/spoiler.php:25 includes/shortcodes/divider.php:31
+#: includes/shortcodes/tabs.php:18 includes/shortcodes/user.php:36
+#: includes/shortcodes/post.php:44 includes/shortcodes/button.php:31
+#: includes/shortcodes/heading.php:14
+msgid "Default"
+msgstr "Domyślny"
+
+#: includes/shortcodes/post.php:40
+msgid "Post data field name"
+msgstr "Nazwa pola danych wpisu"
+
+#: includes/shortcodes/user.php:31 includes/shortcodes/post.php:39
+msgid "Field"
+msgstr "Pole"
+
+#: includes/shortcodes/post.php:36
+msgid "Comment count"
+msgstr "Licznik komentarzy"
+
+#: includes/shortcodes/post.php:35
+msgid "Post mime type"
+msgstr "Rodzaj mime wpisu"
+
+#: includes/shortcodes/post.php:34 includes/shortcodes/post.php:65
+msgid "Post type"
+msgstr "Rodzaj wpisu"
+
+#: includes/shortcodes/posts.php:149 includes/shortcodes/post.php:33
+msgid "Menu order"
+msgstr "Kolejności w menu"
+
+#: includes/shortcodes/post.php:32
+msgid "GUID"
+msgstr "GUID"
+
+#: includes/shortcodes/posts.php:146 includes/shortcodes/posts.php:159
+#: includes/shortcodes/post.php:31
+msgid "Post parent"
+msgstr "Rodzic wpisu"
+
+#: includes/shortcodes/post.php:29 includes/shortcodes/post.php:30
+msgid "Post modified"
+msgstr "Wpis zmodyfikowano"
+
+#: includes/shortcodes/post.php:28
+msgid "Post name"
+msgstr "Nazwa wpisu"
+
+#: includes/shortcodes/post.php:27
+msgid "Ping status"
+msgstr "Status pingowania"
+
+#: includes/shortcodes/post.php:26
+msgid "Comment status"
+msgstr "Status komentarzy"
+
+#: includes/shortcodes/posts.php:179 includes/shortcodes/post.php:25
+msgid "Post status"
+msgstr "Stan wpisu"
+
+#: includes/shortcodes/post.php:24
+msgid "Post excerpt"
+msgstr "Urywek tekstu z wpisu"
+
+#: includes/shortcodes/posts.php:142 includes/shortcodes/post.php:23
+msgid "Post title"
+msgstr "Tytułu wpisu"
+
+#: includes/shortcodes/post.php:19 includes/shortcodes/post.php:20
+msgid "Post date"
+msgstr "Data wpisu"
+
+#: includes/shortcodes/posts.php:141 includes/shortcodes/post.php:18
+msgid "Post author"
+msgstr "Autora wpisu"
+
+#: includes/shortcodes/posts.php:140 includes/shortcodes/meta.php:33
+#: includes/shortcodes/post.php:17 includes/shortcodes/post.php:59
+msgid "Post ID"
+msgstr "ID wpisu"
+
+#: includes/shortcodes/post.php:11
+msgid "Post data"
+msgstr "Dane z wpisu"
+
+#: admin/class-shortcodes-ultimate-admin-extra-shortcodes.php:126
+#: includes/shortcodes/tooltip.php:46
+#: includes/shortcodes/lightbox-content.php:73
+msgid "Shadow"
+msgstr "Cień"
+
+#: admin/class-shortcodes-ultimate-admin-extra-shortcodes.php:118
+#: includes/shortcodes/spoiler.php:51 includes/shortcodes/service.php:21
+#: includes/shortcodes/button.php:97 includes/shortcodes/list.php:15
+msgid "Icon"
+msgstr "Ikona"
+
+#: admin/class-shortcodes-ultimate-admin-settings.php:259
+msgid "Custom formatting"
+msgstr "Własne formatowanie"
+
+#: admin/class-shortcodes-ultimate-admin-settings.php:248
+msgid "Shortcodes prefix"
+msgstr "Przedrostek shortcode"
+
+#: admin/class-shortcodes-ultimate-admin-settings.php:70
+#: admin/class-shortcodes-ultimate-admin-settings.php:71
+#: admin/class-shortcodes-ultimate-admin-settings.php:186
+#: inc/core/generator.php:176
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: admin/class-shortcodes-ultimate-admin-shortcodes.php:506
+#: admin/class-shortcodes-ultimate-admin-top-level.php:40
+msgid "Shortcodes"
+msgstr "Shortcode"
+
+#: admin/class-shortcodes-ultimate-admin-shortcodes.php:412
+msgid "Examples"
+msgstr "Przykłady"
+
+#: admin/class-shortcodes-ultimate-admin-shortcodes.php:401
+msgid "Any text value"
+msgstr "Dowolna wartość tekstowa"
+
+#: admin/class-shortcodes-ultimate-admin-shortcodes.php:394
+#: inc/core/generator-views.php:147 includes/shortcodes/image-carousel.php:20
+msgid "Recent posts"
+msgstr "Ostatnie wpisy"
+
+#: admin/partials/pages/addons.php:27
+msgid "Learn more"
+msgstr "Szczegóły"
+
+#: admin/partials/pages/shortcodes-single-content.php:55
+#: includes/shortcodes/image-carousel.php:104
+msgid "Default value"
+msgstr "Wartość domyślna"
+
+#: admin/partials/pages/shortcodes-single-content.php:54
+msgid "Possible values"
+msgstr "Dopuszczalne wartości"
+
+#: admin/partials/pages/shortcodes-single-content.php:29
+#: includes/config/supported-blocks.php:7
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/partials/pages/shortcodes-single-content.php:20
+#: inc/core/generator.php:307
+msgid "Preview"
+msgstr "Podgląd"
+
+#: admin/partials/settings/fields/checkbox.php:3
+msgid "Enabled"
+msgstr "Włączone"
+
+#: admin/partials/notices/rate.php:17
+msgid "Remind me later"
+msgstr "Przypomnij mi później"
+
+#: admin/partials/notices/rate.php:16
+msgid "Rate plugin"
+msgstr "Oceń wtyczkę"
+
+#: admin/partials/extra/generator.php:2
+#: admin/class-shortcodes-ultimate-admin-shortcodes.php:305
+#: inc/core/generator.php:251
+msgid "All shortcodes"
+msgstr "Wszystkie shortcode"
+
+#: admin/partials/extra/generator.php:2 inc/core/generator.php:251
+msgid "Click to return to the shortcodes list"
+msgstr "Kliknij, aby wrócić do listy shortcode"
+
+#: admin/partials/help/sidebar.php:6
+#: admin/class-shortcodes-ultimate-admin-addons.php:26
+#: admin/class-shortcodes-ultimate-admin-addons.php:29
+#: admin/class-shortcodes-ultimate-admin-addons.php:54
+#: inc/core/generator.php:182
+msgid "Add-ons"
+msgstr "Dodatki"
+
+#: admin/partials/help/sidebar.php:5
+msgid "Documentation"
+msgstr "Dokumentacja"
+
+#. Author of the plugin
+#: admin/partials/notices/rate.php:5
+msgid "Vladimir Anokhin"
+msgstr "Vladimir Anokhin"
+
+#. Plugin Name of the plugin
+#: admin/partials/help/sidebar.php:3
+#: admin/class-shortcodes-ultimate-admin-shortcodes.php:88
+#: admin/class-shortcodes-ultimate-admin.php:267
+#: admin/class-shortcodes-ultimate-admin-top-level.php:39
+#: inc/core/widget.php:14 inc/core/widget.php:40
+#: includes/functions-galleries.php:419
+msgid "Shortcodes Ultimate"
+msgstr "Shortcodes Ultimate"
