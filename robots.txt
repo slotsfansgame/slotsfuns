@@ -11,5 +11,5 @@ Disallow: /?s=
 Allow: /*.css
 Allow: /*.js
 
-Sitemap: https://slotsfuns.herokuapp.com/sitemap_index.xml
-Host: https://slotsfuns.herokuapp.com/
+Sitemap: https://topslot.azurewebsites.net/sitemap_index.xml
+Host: https://topslot.azurewebsites.net/
