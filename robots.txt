@@ -11,5 +11,5 @@ Disallow: /?s=
 Allow: /*.css
 Allow: /*.js
 
-Sitemap: https://topslot.azurewebsites.net/sitemap_index.xml
-Host: https://topslot.azurewebsites.net/
+Sitemap: https://funsgame.online/sitemap_index.xml
+Host: https://funsgame.online/
